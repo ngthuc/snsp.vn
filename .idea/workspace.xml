@@ -2,117 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a1dc866-0a44-4b76-9aa2-bf20ca06d60c" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\admincp_note.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\module_masscall_getSiteStatsForAdmins.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\module_masscall_pendingApproval.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\module_masscall_spamCheck.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\phpfox_news.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\template\admincp_template_default_controller_index.html.php_admincp.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\template\admincp_template_default_controller_login.html.php_admincp.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\template\admincp_template_default_controller_menu_add.html.php_admincp.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\template\admincp_template_default_controller_menu_index.html.php_admincp.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\template\admincp_template_default_controller_setting_edit.html.php_admincp.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\template\adminpanel_default_template_blank.html.php_admincp.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\template\block_admincp.block.menu.entry_admincp.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\template\core_template_default_block_active-admin.html.php_admincp.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\template\core_template_default_block_latest-admin-login.html.php_admincp.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\template\core_template_default_block_news.html.php_admincp.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\template\core_template_default_block_note.html.php_admincp.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\template\core_template_default_block_site-stat.html.php_admincp.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\template\core_template_default_controller_admincp_latest-admin-login.html.php_admincp.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\template\help_template_default_block_popup.html.php_admincp.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\template\link_template_default_block_preview.html.php_ajax.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\Ampps\www\snsp.vn\file\cache\template\page_template_default_controller_admincp_index.html.php_admincp.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/adminpanel_default_template_error.html.php_admincp.php" afterPath="$PROJECT_DIR$/file/cache/template/adminpanel_default_template_error.html.php_admincp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/adminpanel_default_template_pager.html.php_admincp.php" afterPath="$PROJECT_DIR$/file/cache/template/adminpanel_default_template_pager.html.php_admincp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/adminpanel_default_template_template.html.php_admincp.php" afterPath="$PROJECT_DIR$/file/cache/template/adminpanel_default_template_template.html.php_admincp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/block/all_1.php" afterPath="$PROJECT_DIR$/file/cache/block/all_1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/apps_template_default_block_menu.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/apps_template_default_block_menu.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_comment.block.mini_ajax.php" afterPath="$PROJECT_DIR$/file/cache/template/block_comment.block.mini_ajax.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_feed.block.comment_ajax.php" afterPath="$PROJECT_DIR$/file/cache/template/block_feed.block.comment_ajax.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_feed.block.content_ajax.php" afterPath="$PROJECT_DIR$/file/cache/template/block_feed.block.content_ajax.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_feed.block.entry_ajax.php" afterPath="$PROJECT_DIR$/file/cache/template/block_feed.block.entry_ajax.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_feed.block.form.php" afterPath="$PROJECT_DIR$/file/cache/template/block_feed.block.form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_feed.block.link_ajax.php" afterPath="$PROJECT_DIR$/file/cache/template/block_feed.block.link_ajax.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_like.block.display_ajax.php" afterPath="$PROJECT_DIR$/file/cache/template/block_like.block.display_ajax.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/blog_template_default_block_share.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/blog_template_default_block_share.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_bookbulk_block_template-contentclass.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_bookbulk_block_template-contentclass.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_bookbulk_block_template-menu.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_bookbulk_block_template-menu.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_bookbulk_block_template-menuaccount.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_bookbulk_block_template-menuaccount.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_bookbulk_block_welcome.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_bookbulk_block_welcome.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-body.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-body.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-copyright.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-copyright.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-footer.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-footer.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-holdername.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-holdername.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-logo.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-logo.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-menufooter.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-menufooter.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-menusub.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-menusub.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-notification.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-notification.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_controller_index-member.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_controller_index-member.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/cron.php" afterPath="$PROJECT_DIR$/file/cache/cron.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/feed_template_bookbulk_block_display.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/feed_template_bookbulk_block_display.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/feed_template_bookbulk_block_display.html.php_ajax.php" afterPath="$PROJECT_DIR$/file/cache/template/feed_template_bookbulk_block_display.html.php_ajax.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/friend_template_bookbulk_block_notify.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/friend_template_bookbulk_block_notify.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_birthday.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_birthday.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_mini.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_mini.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_mini.html.php_ajax.php" afterPath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_mini.html.php_ajax.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/frontend_bookbulk_template_template.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/frontend_bookbulk_template_template.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/frontend_default_template_breadcrumb.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/frontend_default_template_breadcrumb.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/frontend_default_template_error.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/frontend_default_template_error.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/frontend_default_template_search.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/frontend_default_template_search.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/im_template_bookbulk_block_footer.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/im_template_bookbulk_block_footer.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_admincp.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_admincp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_apps.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_apps.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_core.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_core.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_custom.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_custom.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_emoticon.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_emoticon.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_event.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_event.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_facebook.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_facebook.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_forum.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_forum.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_friend.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_friend.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_im.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_im.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_input.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_input.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_language.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_language.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_mail.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_mail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_marketplace.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_marketplace.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_mobile.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_mobile.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_pages.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_pages.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_photo.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_photo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_poll.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_poll.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_rss.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_rss.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_share.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_share.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_subscribe.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_subscribe.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_theme.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_theme.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_user.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_user.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/like_template_default_block_link.html.php_ajax.php" afterPath="$PROJECT_DIR$/file/cache/template/like_template_default_block_link.html.php_ajax.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/link_template_default_block_share.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/link_template_default_block_share.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/block/location_1.php" afterPath="$PROJECT_DIR$/file/cache/block/location_1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/mail_template_bookbulk_block_notify.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/mail_template_bookbulk_block_notify.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/theme/menu_main1.php" afterPath="$PROJECT_DIR$/file/cache/theme/menu_main1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/module.php" afterPath="$PROJECT_DIR$/file/cache/module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/module_menu_1.php" afterPath="$PROJECT_DIR$/file/cache/module_menu_1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/block/move_1.php" afterPath="$PROJECT_DIR$/file/cache/block/move_1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/music_template_default_block_share.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/music_template_default_block_share.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/notification_template_bookbulk_block_notify.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/notification_template_bookbulk_block_notify.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/mobile/default/template/pager.html.php" afterPath="$PROJECT_DIR$/theme/mobile/default/template/pager.html.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/feedsvi/pages_comment_2.php" afterPath="$PROJECT_DIR$/file/cache/feedsvi/pages_comment_2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/photo_template_default_block_share.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/photo_template_default_block_share.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phpfoxreal.sql" afterPath="$PROJECT_DIR$/phpfoxreal.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/plugin/plugin.php" afterPath="$PROJECT_DIR$/file/cache/plugin/plugin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/plugin/plugin_data_ajax_process.php" afterPath="$PROJECT_DIR$/file/cache/plugin/plugin_data_ajax_process.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/plugin/plugin_data_get_controller.php" afterPath="$PROJECT_DIR$/file/cache/plugin/plugin_data_get_controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/plugin/plugin_data_init.php" afterPath="$PROJECT_DIR$/file/cache/plugin/plugin_data_init.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/plugin/plugin_data_run.php" afterPath="$PROJECT_DIR$/file/cache/plugin/plugin_data_run.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/poll_template_default_block_share.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/poll_template_default_block_share.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/privacy_template_bookbulk_block_form.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/privacy_template_bookbulk_block_form.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/product.php" afterPath="$PROJECT_DIR$/file/cache/product.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/setting.php" afterPath="$PROJECT_DIR$/file/cache/setting.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/share_template_default_block_link.html.php_ajax.php" afterPath="$PROJECT_DIR$/file/cache/template/share_template_default_block_link.html.php_ajax.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/mobile/default/template/template.html.php" afterPath="$PROJECT_DIR$/theme/mobile/default/template/template.html.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/theme/theme_all.php" afterPath="$PROJECT_DIR$/file/cache/theme/theme_all.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/feedsvi/user_status_4.php" afterPath="$PROJECT_DIR$/file/cache/feedsvi/user_status_4.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/user_template_default_block_tooltip.html.php_ajax.php" afterPath="$PROJECT_DIR$/file/cache/template/user_template_default_block_tooltip.html.php_ajax.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/frontend/bookbulk/template/template.html.php" afterPath="$PROJECT_DIR$/theme/frontend/bookbulk/template/template.html.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="snsp.vn.iws" />
@@ -144,10 +36,10 @@
       <list>
         <option value="$PROJECT_DIR$/include/xml/language/vi/module-admincp.xml" />
         <option value="$PROJECT_DIR$/include/xml/language/vi/phpfox-language-import.xml" />
-        <option value="$PROJECT_DIR$/theme/frontend/bookbulk/template/template.html.php" />
         <option value="$PROJECT_DIR$/module/report/template/default/block/add.html.php" />
         <option value="$PROJECT_DIR$/module/user/template/default/controller/register.html.php" />
         <option value="$PROJECT_DIR$/theme/frontend/bookbulk/style/bookbulk/css/custom.css" />
+        <option value="$PROJECT_DIR$/theme/frontend/bookbulk/template/template.html.php" />
       </list>
     </option>
   </component>
@@ -404,124 +296,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="snsp.vn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="snsp.vn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="snsp.vn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="snsp.vn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="user" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="snsp.vn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="snsp.vn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="user" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bookbulk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="block" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="snsp.vn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="snsp.vn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="user" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bookbulk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="block" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="register" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="snsp.vn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="snsp.vn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="user" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -571,14 +345,22 @@
       <option name="number" value="Default" />
       <updated>1437505818530</updated>
     </task>
+    <task id="LOCAL-00001" summary="Install better mobile và fix một số tiếng việt. Chuẩn bị cài cometchat">
+      <created>1437938767846</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1437938767846</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21888727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21888727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -607,6 +389,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
+    <MESSAGE value="Install better mobile và fix một số tiếng việt. Chuẩn bị cài cometchat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Install better mobile và fix một số tiếng việt. Chuẩn bị cài cometchat" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -936,13 +723,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/theme/frontend/bookbulk/template/template.html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.253012">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module/user/template/bookbulk/block/welcome.html.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17555939">
@@ -968,6 +748,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.53212523">
           <caret line="4161" column="22" selection-start-line="4161" selection-start-column="22" selection-end-line="4161" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/frontend/bookbulk/template/template.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23407917">
+          <caret line="8" column="93" selection-start-line="8" selection-start-column="93" selection-end-line="8" selection-end-column="93" />
           <folding />
         </state>
       </provider>

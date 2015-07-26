@@ -1,5 +1,5 @@
 <?php defined('PHPFOX') or exit('NO DICE!'); ?>
-<?php /* Cached: July 26, 2015, 7:05 pm */ ?>
+<?php /* Cached: July 26, 2015, 7:31 pm */ ?>
 <?php if (! PHPFOX_IS_AJAX_PAGE): ?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" dir="<?php echo $this->_aVars['sLocaleDirection']; ?>" lang="<?php echo $this->_aVars['sLocaleCode']; ?>">
@@ -7,6 +7,8 @@
 		<title><?php echo $this->getTitle(); ?></title>	
 <?php echo $this->getHeader(); ?>
 	</head>
+	<link type="text/css" href="/cometchat/cometchatcss.php" rel="stylesheet" charset="utf-8">
+	<script type="text/javascript" src="/cometchat/cometchatjs.php" charset="utf-8"></script>
 	<body class="<?php if ($this->_aVars['bUseFullSite']): ?>bb_is_full_page <?php endif;  if (Phpfox ::getUserId()): ?>bb_body_member<?php else: ?>bb_body_guest<?php endif; ?> bb_page_<?php echo $this->_aVars['sFullControllerName'];  if (Phpfox ::getUserBy('profile_page_id')): ?> bb_is_page_pages_view<?php endif;  if (defined ( 'PHPFOX_IS_USER_PROFILE' )): ?> bb_is_user_profile<?php endif;  if (defined ( 'PHPFOX_IS_USER_PROFILE' ) && ! Phpfox ::getService('profile')->timeline()): ?> bb_is_user_profile_no_timeline<?php else: ?> bb_is_user_profile_yes_timeline<?php endif;  if (defined ( 'PHPFOX_IS_USER_PROFILE' ) && Phpfox ::getService('profile')->timeline()): ?> bb_profile_timeline<?php endif;  if (! $this->_aVars['bUseFullSite'] && ! defined ( 'PHPFOX_IN_DESIGN_MODE' ) && ! Phpfox ::getService('profile')->timeline() && ! defined ( 'PHPFOX_IS_USER_PROFILE' ) && ! defined ( 'PHPFOX_IS_PAGES_VIEW' ) && Phpfox ::isUser()): ?> bb_is_favorites_menu<?php endif; ?>">
 	                
 	                <div<?php if (! Phpfox ::isUser()): ?> id="nb_body_holder_guest"<?php elseif (defined ( 'PHPFOX_IN_DESIGN_MODE' )): ?> id="nb_in_design"<?php endif; ?>>

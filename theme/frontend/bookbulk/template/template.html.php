@@ -5,6 +5,8 @@
 		<title>{title}</title>	
 		{header}
 	</head>
+	<link type="text/css" href="/cometchat/cometchatcss.php" rel="stylesheet" charset="utf-8">
+	<script type="text/javascript" src="/cometchat/cometchatjs.php" charset="utf-8"></script>
 	<body class="{if $bUseFullSite}bb_is_full_page {/if}{if Phpfox::getUserId()}bb_body_member{else}bb_body_guest{/if} bb_page_{$sFullControllerName}{if Phpfox::getUserBy('profile_page_id')} bb_is_page_pages_view{/if}{if defined('PHPFOX_IS_USER_PROFILE')} bb_is_user_profile{/if}{if defined('PHPFOX_IS_USER_PROFILE') && !Phpfox::getService('profile')->timeline()} bb_is_user_profile_no_timeline{else} bb_is_user_profile_yes_timeline{/if}{if defined('PHPFOX_IS_USER_PROFILE') && Phpfox::getService('profile')->timeline()} bb_profile_timeline{/if}{if !$bUseFullSite && !defined('PHPFOX_IN_DESIGN_MODE') && !Phpfox::getService('profile')->timeline() && !defined('PHPFOX_IS_USER_PROFILE') && !defined('PHPFOX_IS_PAGES_VIEW') && Phpfox::isUser()} bb_is_favorites_menu{/if}">
 	                
 	                <div{if !Phpfox::isUser()} id="nb_body_holder_guest"{elseif defined('PHPFOX_IN_DESIGN_MODE')} id="nb_in_design"{/if}>
