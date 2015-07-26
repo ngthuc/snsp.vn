@@ -1,0 +1,1 @@
+{if !$bUseFullSite}class="content3 content_column block"{/if}

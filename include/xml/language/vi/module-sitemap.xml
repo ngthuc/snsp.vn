@@ -1,0 +1,20 @@
+<phrases>
+	<phrase module_id="sitemap" version_id="2.0.0rc4" var_name="module_arcade" added="1256217055">Konsort.org Sitemap</phrase>
+	<phrase module_id="sitemap" version_id="2.0.0rc4" var_name="admin_menu_statistics" added="1256217055">Statistics</phrase>
+	<phrase module_id="sitemap" version_id="2.0.0rc11" var_name="setting_group_konsortorg_sitemap" added="1261581671"><![CDATA[<title>Konsort.org Sitemap</title><info>Konsort.org Sitemap Settings</info>]]></phrase>
+	<phrase module_id="sitemap" version_id="2.0.0rc11" var_name="setting_blogs" added="1261581902"><![CDATA[<title>Show Blogs on Sitemap</title><info>Displays blogs on sitemap Xml Feed.</info>]]></phrase>
+	<phrase module_id="sitemap" version_id="2.0.0rc11" var_name="setting_events" added="1261581902"><![CDATA[<title>Show Events on Sitemap</title><info>Displays events on sitemap Xml Feed.</info>]]></phrase>
+	<phrase module_id="sitemap" version_id="2.0.0rc11" var_name="setting_forums" added="1261581902"><![CDATA[<title>Show Forums on Sitemap</title><info>Displays forums on sitemap Xml Feed.</info>]]></phrase>
+	<phrase module_id="sitemap" version_id="2.0.0rc11" var_name="setting_groups" added="1261581902"><![CDATA[<title>Show Groups on Sitemap</title><info>Displays groups on sitemap Xml Feed.</info>]]></phrase>
+	<phrase module_id="sitemap" version_id="2.0.0rc11" var_name="setting_martketplace" added="1261581902"><![CDATA[<title>Show Marketplace on Sitemap</title><info>Displays marketplace on sitemap Xml Feed.</info>]]></phrase>
+	<phrase module_id="sitemap" version_id="2.0.0rc11" var_name="setting_music" added="1261581902"><![CDATA[<title>Show Music on Sitemap</title><info>Displays music on sitemap Xml Feed.</info>]]></phrase>
+	<phrase module_id="sitemap" version_id="2.0.0rc11" var_name="setting_photos" added="1261581902"><![CDATA[<title>Show Photos on Sitemap</title><info>Displays photos on sitemap Xml Feed.</info>]]></phrase>
+	<phrase module_id="sitemap" version_id="2.0.0rc11" var_name="setting_polls" added="1261581902"><![CDATA[<title>Show Polls on Sitemap</title><info>Displays polls on sitemap Xml Feed.</info>]]></phrase>
+	<phrase module_id="sitemap" version_id="2.0.0rc11" var_name="setting_quiz" added="1261581902"><![CDATA[<title>Show Quiz on Sitemap</title><info>Displays quiz on sitemap Xml Feed.</info>]]></phrase>
+	<phrase module_id="sitemap" version_id="2.0.0rc11" var_name="setting_static" added="1261581902"><![CDATA[<title>Show Static on Sitemap</title><info>Displays static page links on sitemap Xml Feed.</info>]]></phrase>
+	<phrase module_id="sitemap" version_id="2.0.0rc11" var_name="setting_users" added="1261581902"><![CDATA[<title>Show Users on Sitemap</title><info>Displays users on sitemap Xml Feed.</info>]]></phrase>
+	<phrase module_id="sitemap" version_id="2.0.0rc11" var_name="setting_video" added="1261581902"><![CDATA[<title>Show Video on Sitemap</title><info>Displays videos on sitemap Xml Feed.</info>]]></phrase>
+	<phrase module_id="sitemap" version_id="2.0.3" var_name="admin_menu_generator" added="1267730092">Custom Tables</phrase>
+	<phrase module_id="sitemap" version_id="2.0.4" var_name="admin_menu_sitemaps" added="1268703933">Sitemaps</phrase>
+	<phrase module_id="sitemap" version_id="2.1.0" var_name="setting_per_pg" added="1315921760"><![CDATA[<title>Links per Page</title><info>The number of links generated per sitemap page. If the sitemap is loading too slow, set this value to a smaller number.</info>]]></phrase>
+</phrases>

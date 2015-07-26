@@ -1,0 +1,88 @@
+<module>
+	<data>
+		<module_id>bootstraptheme</module_id>
+		<product_id>bootstraptheme</product_id>
+		<is_core>0</is_core>
+		<is_active>1</is_active>
+		<is_menu>1</is_menu>
+		<menu><![CDATA[a:2:{s:44:"bootstraptheme.admin_menu_slideshow_settings";a:1:{s:3:"url";a:2:{i:0;s:14:"bootstraptheme";i:1;s:11:"btslideshow";}}s:35:"bootstraptheme.admin_menu_add_slide";a:1:{s:3:"url";a:2:{i:0;s:14:"bootstraptheme";i:1;s:10:"btaddslide";}}}]]></menu>
+		<phrase_var_name>module_bootstraptheme</phrase_var_name>
+	</data>
+	<settings>
+		<setting group="" module_id="bootstraptheme" is_hidden="0" type="integer" var_name="bootstraptheme_mainmenu_count" phrase_var_name="setting_bootstraptheme_mainmenu_count" ordering="1" version_id="3.6.0">8</setting>
+		<setting group="" module_id="bootstraptheme" is_hidden="0" type="string" var_name="bootstraptheme_facebooklikebox" phrase_var_name="setting_bootstraptheme_facebooklikebox" ordering="1" version_id="3.6.0">https://www.facebook.com/FacebookDevelopers</setting>
+		<setting group="" module_id="bootstraptheme" is_hidden="0" type="string" var_name="bootstraptheme_flickr_url" phrase_var_name="setting_bootstraptheme_flickr_url" ordering="1" version_id="3.6.0">1</setting>
+		<setting group="" module_id="bootstraptheme" is_hidden="0" type="string" var_name="bootstraptheme_twitter_url" phrase_var_name="setting_bootstraptheme_twitter_url" ordering="2" version_id="3.6.0">2</setting>
+		<setting group="" module_id="bootstraptheme" is_hidden="0" type="string" var_name="bootstraptheme_facebook_url" phrase_var_name="setting_bootstraptheme_facebook_url" ordering="3" version_id="3.6.0">3</setting>
+		<setting group="" module_id="bootstraptheme" is_hidden="0" type="string" var_name="bootstraptheme_dribbble_url" phrase_var_name="setting_bootstraptheme_dribbble_url" ordering="5" version_id="3.6.0">5</setting>
+		<setting group="" module_id="bootstraptheme" is_hidden="0" type="string" var_name="bootstraptheme_pinterest_url" phrase_var_name="setting_bootstraptheme_pinterest_url" ordering="6" version_id="3.6.0">6</setting>
+		<setting group="" module_id="bootstraptheme" is_hidden="0" type="string" var_name="bootstraptheme_youtube_url" phrase_var_name="setting_bootstraptheme_youtube_url" ordering="4" version_id="3.6.0">4</setting>
+		<setting group="" module_id="bootstraptheme" is_hidden="1" type="string" var_name="bootstraptheme_dir_image" phrase_var_name="setting_bootstraptheme_dir_image" ordering="1" version_id="3.6.0">file/pic/bootstraptheme/</setting>
+	</settings>
+	<phrases>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="admin_menu_slideshow_settings" added="1375441382">Slideshow Manage</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="admin_menu_facebook_settings" added="1375441382">Facebook Settings</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="admin_menu_social_buttons_settings" added="1375441382">Social Buttons Manage</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="module_bootstraptheme" added="1375441382">Bootstraptheme Blocks</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="setting_bootstraptheme_dir_image" added="1375855882"><![CDATA[<title>Bootstraptheme Image Folder</title><info>Bootstraptheme Image Folder</info>]]></phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="sign_in" added="1375858079">Sign In</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="sign_up" added="1375858126">Sign Up</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="signup_block_title" added="1375861843"><![CDATA[<span>Signup</span> for a <span>Free Trial</span> Now]]></phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="signup_block_description" added="1375862203"><![CDATA[<li>Easy, no-hassle sign-up</li><li> | </li><li>Free 30-day trial</li><li> | </li><li>Pricing starts at just $27/year after trial period</li>]]></phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="navigate" added="1375866741">Navigate</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="about_us" added="1375867847">About Us</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="about_us_text" added="1375867920">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non libero magna. Sed et quam lacus. Fusce condimentum eleifend enim a feugiat. Pellentesque viverra vehicula sem ut volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non libero magna. Sed et quam lacus.</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="address" added="1375868347">1800 North Central Expressway, Suite 800, Dallas, Texas 75231</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="phone" added="1375868375">Phone: (800) 655-7800</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="fax" added="1375868395">Fax: (800) 655-7800</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="what_people_are_saying" added="1375869344">What People Are Saying</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="last_activities" added="1375869411">Last Activities</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="facebook_like_box" added="1375869544">Facebook Like Box</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="setting_bootstraptheme_mainmenu_count" added="1375937872"><![CDATA[<title>Maximum Menu Items</title><info>Maximum Menu Items</info>]]></phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="admin_menu_main_menu_settings" added="1375938279">Main Menu Settings</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_title" added="1375940844">Title</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_description" added="1375940961">Description</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="image_extra_info" added="1375941681"><![CDATA[you can upload a jpg gif or png file <br/> advised size is 450x350 pixels]]></phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="change_slide_info" added="1375941812">Click here to change this image</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_link" added="1375941849">Link</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_image" added="1375941875">Image</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_save" added="1375942331">Save</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_position" added="1375942399">Position</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_position_left" added="1375942555">Left</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_position_right" added="1375942580">Right</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_button_label" added="1375942710">Button Text</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="enter_gauge_color_in_hex" added="1375943020">enter gauge color in hex</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_button_bgcolor" added="1375943059">Button Background Color</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_button_txtcolor" added="1375944146">Button Text Color</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_add" added="1375944370">Slide successfully added</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="add_slide" added="1375945414">Add New Slide</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="admin_menu_add_slide" added="1375949023">Add Slide</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="list_of_slides" added="1375949163">List Of Slides</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_active" added="1375949442">Active</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_deactivate" added="1375949820">Deactivate</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_activate" added="1375949847">Activate</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_delete" added="1375949882">Delete</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_edit" added="1375949900">Edit</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_manage" added="1375949939">Manage</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="edit_slide" added="1375952593">Edit Slide</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_update" added="1375953169">Slide successfully updated</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_title_fill" added="1375953990">Please fill Title field</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_description_fill" added="1375954053">Please fill Description field</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_url_fill" added="1375954103">Please select Image for slide</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_is_active" added="1375954183">Is Active</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_is_active_yes" added="1375954237">Yes</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_is_active_no" added="1375954257">No</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_button_label_fill" added="1375954383">Please fill Button Text field</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="the_slide_cannot_be_found" added="1375956654">The slide cannot be found</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_update_button" added="1375957271">Update</phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="setting_faceebook_like_box" added="1376029249"><![CDATA[<title>Facebook Like Box Url</title><info>Facebook Like Box Url</info>]]></phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="setting_bootstraptheme_facebooklikebox" added="1376029471"><![CDATA[<title>Facebook Like Box Url</title><info>Facebook Like Box Url</info>]]></phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="setting_bootstraptheme_flickr_url" added="1376029620"><![CDATA[<title>Flickr Button Url</title><info>Flickr Button Url</info>]]></phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="setting_bootstraptheme_twitter_url" added="1376029800"><![CDATA[<title>Twitter Button Url</title><info>Twitter Button Url</info>]]></phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="setting_bootstraptheme_facebook_url" added="1376030040"><![CDATA[<title>Facebook Button Url</title><info>Facebook Button Url</info>]]></phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="setting_bootstraptheme_dribbble_url" added="1376030098"><![CDATA[<title>Dribbble Button Url</title><info>Dribbble Button Url</info>]]></phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="setting_bootstraptheme_pinterest_url" added="1376030141"><![CDATA[<title>Pinterest Button Url</title><info>Pinterest Button Url</info>]]></phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="setting_bootstraptheme_youtube_url" added="1376030338"><![CDATA[<title>Youtube Button Url</title><info>Youtube Button Url</info>]]></phrase>
+		<phrase module_id="bootstraptheme" version_id="3.6.0" var_name="slide_deleted" added="1376041166">Slide successfully deleted</phrase>
+	</phrases>
+</module>

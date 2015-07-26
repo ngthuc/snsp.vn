@@ -1,0 +1,77 @@
+<module>
+	<data>
+		<module_id>youtube</module_id>
+		<product_id>pg_youtube</product_id>
+		<is_core>0</is_core>
+		<is_active>1</is_active>
+		<is_menu>0</is_menu>
+		<menu />
+		<phrase_var_name>module_youtube</phrase_var_name>
+	</data>
+	<menus>
+		<menu module_id="youtube" parent_var_name="" m_connection="explore" var_name="menu_youtube_youtube" ordering="112" url_value="youtube" version_id="2.0.0" disallow_access="" module="youtube" />
+	</menus>
+	<settings>
+		<setting group="" module_id="youtube" is_hidden="0" type="integer" var_name="youtube_page_size" phrase_var_name="setting_youtube_page_size" ordering="1" version_id="2.0.0">9</setting>
+		<setting group="" module_id="youtube" is_hidden="0" type="string" var_name="youtube_block_keyword" phrase_var_name="setting_youtube_block_keyword" ordering="1" version_id="2.0.0">guitar</setting>
+		<setting group="" module_id="youtube" is_hidden="0" type="drop" var_name="youtube_block_display_type" phrase_var_name="setting_youtube_block_display_type" ordering="1" version_id="3.0.0rc2"><![CDATA[a:2:{s:7:"default";s:6:"normal";s:6:"values";a:2:{i:0;s:6:"normal";i:1;s:7:"keyword";}}]]></setting>
+	</settings>
+	<blocks>
+		<block type_id="0" m_connection="youtube" module_id="youtube" component="menu" location="1" is_active="1" ordering="1" disallow_access="" can_move="1">
+			<title></title>
+			<source_code />
+			<source_parsed />
+		</block>
+		<block type_id="0" m_connection="youtube" module_id="youtube" component="search" location="3" is_active="1" ordering="2" disallow_access="" can_move="1">
+			<title></title>
+			<source_code />
+			<source_parsed />
+		</block>
+	</blocks>
+	<components>
+		<component module_id="youtube" component="display" m_connection="" module="youtube" is_controller="0" is_block="1" is_active="1" />
+		<component module_id="youtube" component="menu" m_connection="" module="youtube" is_controller="0" is_block="1" is_active="1" />
+		<component module_id="youtube" component="index" m_connection="yotube.index" module="youtube" is_controller="1" is_block="0" is_active="1" />
+		<component module_id="youtube" component="search" m_connection="" module="youtube" is_controller="0" is_block="1" is_active="1" />
+	</components>
+	<phrases>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="module_youtube" added="1261461781">youtube mod</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="block_title" added="1262769962">Popular Videos</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="most_popular" added="1262750022">Most Popular</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="most_viewed" added="1262750145">Most Viewed</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="most_recent" added="1262750259">Most Recent</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="title" added="1262756099">Youtube Videos</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="user_setting_can_access_youtube" added="1262756168">Can access youtube videos?</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="title_mostpopular" added="1262756398">Most Popular Videos</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="title_mostviewed" added="1262756550">Most Viewed Videos</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="title_mostrecent" added="1262756591">Most Recent Videos</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="category" added="1262764697">Category</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="description" added="1262764714">Description</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="keyword" added="1262764843">Keyword</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="most_discussed" added="1262765475">Most Discussed</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="most_responded" added="1262765596">Most Responded</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="title_mostresponded" added="1262765625">Most Responded Videos</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="top_rated" added="1262765648">Top Rated</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="title_toprated" added="1262765670">Top Rated Videos</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="top_favorites" added="1262765687">Top Favorites</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="title_topfavorites" added="1262765714">Top Favorites Videos</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="title_mostdiscussed" added="1262765998">Most Discussed Videos</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="no_videos" added="1262767317">No videos available.</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="search" added="1262767590">Search</phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="setting_youtube_page_size" added="1262757441"><![CDATA[<title>Video Page Size</title><info>Define how many videos we can display at one page.</info>]]></phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="setting_youtube_block_display_limit" added="1262770695"><![CDATA[<title>Block Display Limit</title><info>Define How many videos will display on the block.</info>]]></phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="setting_youtube_block_keyword" added="1262796210"><![CDATA[<title>Display Keyword</title><info>if you set Display Type as keyword, you need input the keyword.</info>]]></phrase>
+		<phrase module_id="youtube" version_id="2.0.0" var_name="menu_youtube_youtube" added="1262771096">Youtube</phrase>
+		<phrase module_id="youtube" version_id="2.0.2" var_name="setting_youtube_block_display_type" added="1265849788"><![CDATA[<title>Block Display Type</title><info>Define what type video will display on the block.</info>]]></phrase>
+		<phrase module_id="youtube" version_id="2.0.5" var_name="post_on_profile" added="1282531605">Post on Profile</phrase>
+		<phrase module_id="youtube" version_id="2.0.5" var_name="video_successfully_post" added="1282531627">Video successfully post.</phrase>
+		<phrase module_id="youtube" version_id="2.0.5" var_name="a_href_user_link_owner_full_name_a_added_a_new_youtube_video" added="1282552274"><![CDATA[<a href="{user_link}">{owner_full_name}</a> added a new video "<a href="{title_link}">{title}</a>".]]></phrase>
+		<phrase module_id="youtube" version_id="2.0.5" var_name="add_to_your_favorites" added="1282555974">Add to your Favorites</phrase>
+		<phrase module_id="youtube" version_id="2.0.5" var_name="you_post_this_video_already" added="1282557569">You already post this video.</phrase>
+		<phrase module_id="youtube" version_id="2.0.7" var_name="most_relevance" added="1294318724">Most Relevance</phrase>
+		<phrase module_id="youtube" version_id="2.0.7" var_name="mostrelevance" added="1294319016">Most Relevance</phrase>
+	</phrases>
+	<user_group_settings>
+		<setting is_admin_setting="0" module_id="youtube" type="boolean" admin="1" user="1" guest="1" staff="1" module="youtube" ordering="0">can_access_youtube</setting>
+	</user_group_settings>
+</module>

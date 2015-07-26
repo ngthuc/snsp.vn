@@ -1,0 +1,152 @@
+<phrases>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="admin_menu_settings" added="1269279272">Settings</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="module_tournament" added="1269279272">Konsort.org Arcade Tournament</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="user_setting_can_create_tournament" added="1269279340">Can create arcade tournaments?</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="setting_group_konsortorg_tournament" added="1269279432"><![CDATA[<title>Konsort.org Tournament</title><info>Konsort.org Arcade Tournament</info>]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="setting_activity_points_winner" added="1269279602"><![CDATA[<title>Activity Points for 1st, 2nd, and 3rd Place</title><info>When a tournament is completed, the values provided will add activity points for 1st, 2nd, 3rd place, etc respectively. If value is set to zero, then no activity points are awarded. You may add as many values as you would like for subsequent places to receive a reward.</info>]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="setting_is_on" added="1269280078"><![CDATA[<title>Enable Tournaments</title><info>When set to true, users will be able to create and participate in tournaments. You can further designate which usergroups may create or play in tournaments by visiting the admincp usergroup manager</info>]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="user_setting_can_play" added="1269280136">Can play in tournaments?</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="setting_min_player_slots" added="1269280331"><![CDATA[<title>Minimum Number of Player Slots</title><info>The minimum number of players allowed to play in a single tournament.</info>]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="setting_max_player_slots" added="1269280404"><![CDATA[<title>Maximum Number of Player Slots</title><info>The maximum number of players allowed to play in a single tournament.</info>]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="setting_round_length" added="1269284999"><![CDATA[<title>Length of Time for Each Round</title><info>Within a bracket, the maximum amount of time (in hours) that may elapse between a user posting a score and his/her opponent posting a score. If an opponent fails to post a score within the maximum amount of time, his/her score will be forfeited and the other user will become the winner by default.</info>]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="provide_a_name_for_the_tournament" added="1269292458">Provide a name for the tournament.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="provide_a_description_for_the_tournament" added="1269292565">Provide a description for the tournament.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="provide_a_game" added="1269292671">Provide a game.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="provide_max_number_of_players" added="1269292784">Provide the maximum number of players allowed.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="the_tournament_has_been_updated" added="1269292885">The tournament has been updated.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="the_tournament_has_been_added" added="1269292955">The tournament has been added.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="create_a_tournament" added="1269292996">Create a Tournament</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="edit_a_tournament" added="1269293032">Edit a Tournament</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="save" added="1269293265">Save</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="add" added="1269293279">Add</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="name" added="1269293310">Name</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="description" added="1269293769">Description</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="game" added="1269299182">Game</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="start_date" added="1269348868">Start Date</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="end_date" added="1269348904">End Date</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="maximum_players_allowed" added="1269349652">Maximum Players Allowed</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="the_number_of_players_allowed_must_be_between_x_and_y" added="1269349929">The number of players allowed must be between {x} and {y}</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="entry_code" added="1269350053">Entry Code</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="tournament_password" added="1269350121">Tournament Password</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="optional_the_password_a_member_must_know_to_play" added="1269350212">Optional: The password a member must know in order to play</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="game_does_not_exist" added="1269432296">Game does not exist.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="end_date_must_be_later_than_the_start_date" added="1269433218">End date must be later than the start date.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="end_date_must_be_later_than_current_date" added="1269433367">End date must be later than current date.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="there_was_an_error_in_trying_to_view_that_page" added="1269435090">There was an error trying to view that page.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="edit_tournament" added="1269459216">Edit Tournament</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="view_ongoing_tournaments" added="1269459403">View Ongoing Tournaments</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="view_my_tournaments" added="1269459547">View My Tournaments</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="tournament_invites" added="1269459599">Tournament Invites</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="withdraw" added="1269459781">Withdraw</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="enter_tournament" added="1269459806">Enter Tournament</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="invite" added="1269459940">Invite</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="user_setting_can_feature" added="1269460035">Can feature tournaments on home tournament page?</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="feature" added="1269460070">Feature</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="unfeature" added="1269460163">Unfeature</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="user_setting_can_delete_own_tournament" added="1269460225">Can delete own tournament?</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="user_setting_can_delete_other_tournament" added="1269460282"><![CDATA[Can delete other user's tournaments?]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="delete" added="1269461781">Delete</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="game_info" added="1269525416">Game Info</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="tournament_description" added="1269525647">Tournament Description</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="user_setting_can_comment" added="1269549885">Can comment on tournament page?</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="you_are_already_a_player_in_the_tournament" added="1269804795">You are already a player in the tournament.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="the_entry_code_is_invalid_please_try_again" added="1269805119">The entry code is invalid. Please try again.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="tournament_has_already_started_you_cannot_join_tournament" added="1269805265">Tournament has already started. You cannot join the tournament.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="you_cannot_enter_the_tournament_player_slots_are_full" added="1269805517">You cannot enter the tournament. Player slots are full.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="there_was_an_error_in_processing_your_request" added="1269805656">There was an error in processing your request.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="you_have_entered_the_tournament" added="1269805720">You have entered the tournament.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="you_have_withdrawn_from_the_tournament" added="1269806595">You have withdrawn from the tournament.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="tournament_is_now_featured" added="1269807666">Tournament is now featured.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="tournament_is_no_longer_featured" added="1269807892">Tournament is no longer featured.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="players_for_tournament" added="1269823910">Players for {tournament}</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="still_playing" added="1269869264">Still Playing</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="eliminated" added="1269869298">Eliminated</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="no_players" added="1269869765">There are no players for the tournament.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="user_setting_can_edit_other_tournaments" added="1269870141"><![CDATA[Can edit other user's tournaments?]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="players" added="1269873027">Players</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="view_more" added="1269873116">View More</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="home" added="1269878458">Home</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="no_players_have_been_eliminated" added="1269890665">No players have been eliminated.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="no_players_are_still_remaining" added="1269890716">No players are still remaining.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="tournament_champion" added="1269891770">Tournament Champion</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="tournament_is_in_progress_no_one_is_champion_yet" added="1269892732">Tournament is in progress. No one has been crowned champion.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="players_eliminated" added="1269893286">Players Eliminated</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="rounds_played" added="1269893389">Rounds Played</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="start_tournament_pm_content" added="1269900509"><![CDATA[The tournament {tournament_name} has just begun. Go to the tournament page <a href="{tournament_link}">here</a> to view your opponent.]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="start_tournament_pm_title" added="1269900638">The tournament {tournament_name} has started!</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="setting_start_tournament_pm" added="1269900921"><![CDATA[<title>Send Private Message to Players on Tournament Start</title><info>When set to true, a private message is set to all players of the tournament. The phrase "tournament.start_tournament_pm_title" is the title of the private message and the phrase "tournament.start_tournament_pm_content" is the body of the private message. The variables that can be used is {tournament_name}, {tournament_link}, {tournament_description}, {game_link}</info>]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="setting_start_tournament_feed" added="1269902768"><![CDATA[<title>Add Tournament Start to Feed</title><info>When set to true, newly started tournaments will be added to your activity feed.</info>]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="feed_prompt_1" added="1269903398"><![CDATA[The tournament <a href="{tournament_url}">{tournament_title}</a> has just begun!]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="setting_create_tournament_feed" added="1269903571"><![CDATA[<title>Add Tournament Create to Feed</title><info>When set to true, newly created tournaments will be added to your activity feed.</info>]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="setting_winner_tournament_feed" added="1269903976"><![CDATA[<title>Add Tournament Winner to Feed</title><info>When set to true, upon ending a tournament, the tournament results will be added to your activity feed.</info>]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="feed_prompt_2" added="1269904079"><![CDATA[{user_link} has just created the tournament <a href="{tournament_url}">{tournament_title}</a>]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="feed_prompt_3" added="1269904128"><![CDATA[{user_link} is the winner for the tournament <a href="{tournament_url}">{tournament_title}</a>]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="setting_new_round_feed" added="1269956583"><![CDATA[<title>Add Tournament Round to Feed</title><info>When set to true, upon a new tournament round starting, the new round will be added to your activity feed.</info>]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="feed_prompt_4" added="1269956764"><![CDATA[Round {round_number} has ended for the tournament <a href="{tournament_url}">{tournament_title}</a>]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="setting_new_round_pm" added="1269957178"><![CDATA[<title>Send Private Message to Players on New Round Start</title><info>When set to true, a private message is set to all players of the tournament on the start of a new round. The phrase "tournament.new_round_pm_title" is the title of the private message and the phrase "tournament.new_round_pm_content" is the body of the private message. The variables that can be used is {tournament_name}, {tournament_link}, {tournament_description}, {game_link}, '{round_number}'</info>]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="new_round_pm_title" added="1269957373">Round {round_number} has started for {tournament_name}!</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="new_round_pm_content" added="1269957511"><![CDATA[Round {round_number} has started for the tournament {tournament_name}. Click here <a href="{tournament_link}">here</a> to eliminate your new opponent!]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="a_new_round_has_started_for_tournament" added="1269965685">A new round has started for {tournament_name}</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="the_tournament_has_begun" added="1269967478">The tournament {tournament_name} has begun.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="tournament_has_already_started_you_cannot_send_invites" added="1269968243">Tournament has started. You cannot send invites.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="full_name_added_the_following_personal_message" added="1270045160">{full_name} added the following personal message</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="full_name_invited_you_to_play_in_the_tournament_name" added="1270045310"><![CDATA[{full_name} invited you to play in the tournament "{title}".]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="full_name_invited_you_to_title" added="1270045455"><![CDATA[{full_name} invited you to "{title}".
+
+To check out this group, follow the link below:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="you_have_an_invite_to_the_tournament_name" added="1270046778">You have an invite to the tournament {tournament_name}.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="round_number" added="1270047675">Round {number}</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="current_battle" added="1270054184">Current Battle</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="winner" added="1270063650">Winner</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="score" added="1270064410">Score:</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="battle_opponent" added="1270064526">Battle Opponent</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="opponent_has_to_post_a_score" added="1270064837">Opponent has to post a score.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="tournament_battle_cannot_be_found" added="1270065715">Tournament battle cannot be found.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="winner_for_battle_has_already_been_decided" added="1270065961">Winner for battle has already been decided.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="you_have_already_posted_a_score_for_this_battle" added="1270066227">You have already posted a score for this battle.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="you_are_playing_a_tournament_battle" added="1270066314">You are playing a tournament battle.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="menu_tournament_tournament_dc977bed7c71c686eb5165dfd6e9709b" added="1270066314">Tournament</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="edit" added="1270147607">Edit</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="are_you_sure" added="1270147637">Are you sure?</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="total_players" added="1270148246">Total Players</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="there_are_no_tournaments_listed" added="1270148484">There are no tournaments listed.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="current_round" added="1270148967">Current Round</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="my_tournaments" added="1270150019">My Tournaments</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="ongoing_tournaments" added="1270150062">Live Tournaments</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="invites" added="1270150077">Invites</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="tournament_admin" added="1270152319">Tournament Admin</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="start_date_must_be_later_than_current_date" added="1270153582">Start date must be later than current date.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="featured" added="1270154385">Featured</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="successfully_deleted_the_tournament" added="1270164935">Successfully deleted the tournament.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="joinable_tournaments" added="1270166538">Joinable Tournaments</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="past_tournaments" added="1270166538">Finished Tournaments</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="no_champion_awarded" added="1270166722">No Champion Awarded</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="invite_has_been_sent" added="1270167833">Invite has been sent.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="no_invites_yet" added="1270167833">You have not received any Tournament invites.</phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="no_live_tornaments" added="1270167833"><![CDATA[Currently, there are no live tournaments. Start a new tournament today by clicking &#039;Create a Tournament&#039; on the right navigation bar.]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="block_directions" added="1270167834"><![CDATA[<b>To Play:</b><br/> 1. Find an upcoming tournament you desire to enter. You cannot enter an ongoing tournament or past tournament.<br/> 2. Enter the tournament. If the tournament requires a passcode, please send a private message to the manager of the tournament requesting passcode.<br/> 3. Once the tournament starts, you will battle with another user and the winner will move to the next round. There will be an allotted {round_time} hours for all players to play within the round. If the player does not submit a score within this time, the player without a score will be the loser. If not players do not have scores, both players will be eliminated. <br/> 4. The winner will be the player who wins the last round.]]></phrase>
+	<phrase module_id="tournament" version_id="2.0.4" var_name="tournament_directions" added="1270167833">Tournament Directions</phrase>
+	<phrase module_id="tournament" version_id="2.0.5" var_name="tournament_fee" added="1281454821">Tournament Fee</phrase>
+	<phrase module_id="tournament" version_id="2.0.5" var_name="optional_the_amount_of_activity_points_required_to_play" added="1281454920">Optional: The amount of activity points required to play</phrase>
+	<phrase module_id="tournament" version_id="2.0.5" var_name="tournament_fee_payout" added="1281454980">Tournament Fee Payout</phrase>
+	<phrase module_id="tournament" version_id="2.0.5" var_name="optional_awards_the_winner_all_the_tournament_fees_payed" added="1281455123">Optional: Awards the winner all the tournament fees payed</phrase>
+	<phrase module_id="tournament" version_id="2.0.5" var_name="yes" added="1281455552">Yes</phrase>
+	<phrase module_id="tournament" version_id="2.0.5" var_name="no" added="1281455569">No</phrase>
+	<phrase module_id="tournament" version_id="2.0.5" var_name="the_following_tournament_requires_a_inum_activity_entry_fee_are_you_sure_you_want_enter_the_tourname" added="1281457492">The following tournament requires a {iNum} activity point entry fee. Are you sure you want to enter the tournament?</phrase>
+	<phrase module_id="tournament" version_id="2.0.5" var_name="user1_vs_user2" added="1281676502">{user1} vs {user2}</phrase>
+	<phrase module_id="tournament" version_id="2.0.5" var_name="the_page_you_are_trying_to_view_cannot_be_found" added="1281704151">The page you are trying to view cannot be found.</phrase>
+	<phrase module_id="tournament" version_id="2.0.5" var_name="you_have_a_bye_this_round" added="1281888690">You have a bye this round.</phrase>
+	<phrase module_id="tournament" version_id="2.0.5" var_name="click_here" added="1281980662">Click Here</phrase>
+	<phrase module_id="tournament" version_id="2.0.5" var_name="tournament_brackets" added="1281980696">Tournament Brackets</phrase>
+	<phrase module_id="tournament" version_id="3.0.0rc3" var_name="tournaments" added="1324595281"><![CDATA[C&#225;c gi&#7843;i &#273;&#7845;u]]></phrase>
+	<phrase module_id="tournament" version_id="3.0.0rc3" var_name="has_just_created_the_tournament_a_href_tournament_link_tournament_title_a" added="1324601637"><![CDATA[has just created the tournament <a href="{tournament_link}">{tournament_title}</a>]]></phrase>
+	<phrase module_id="tournament" version_id="3.0.0rc3" var_name="invite_friends" added="1324916301">Invite Friends</phrase>
+	<phrase module_id="tournament" version_id="3.0.0rc3" var_name="invite_people_via_email" added="1324916338">Invite People via Email</phrase>
+	<phrase module_id="tournament" version_id="3.0.0rc3" var_name="separate_multiple_emails_with_a_comma" added="1324916354">Separate multiple emails with a comma.</phrase>
+	<phrase module_id="tournament" version_id="3.0.0rc3" var_name="add_a_personal_message" added="1324916370">Add a Personal Message</phrase>
+	<phrase module_id="tournament" version_id="3.0.0rc3" var_name="send_invitations" added="1324916393">Send Invitations</phrase>
+	<phrase module_id="tournament" version_id="3.0.0rc3" var_name="new_guest_list" added="1324916414">New Guest List</phrase>
+	<phrase module_id="tournament" version_id="3.0.0rc3" var_name="the_round_has_ended_for_the_tournament_a_href_tournament_url_tournament_title_a" added="1325032182"><![CDATA[The round has ended for the tournament <a href="{tournament_url}">{tournament_title}</a>]]></phrase>
+	<phrase module_id="tournament" version_id="3.0.0rc3" var_name="is_the_winner_for_the_tournament_a_href_tournament_url_tournament_title_a" added="1325034249"><![CDATA[is the winner for the tournament <a href="{tournament_url}">{tournament_title}</a>]]></phrase>
+</phrases>

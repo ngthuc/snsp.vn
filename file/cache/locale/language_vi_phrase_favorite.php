@@ -1,0 +1,23 @@
+<?php defined('PHPFOX') or exit('NO DICE!'); ?>
+<?php $aContent = array (
+  'added_by_user_on_time_stamp_phrase' => 'Added by {user_link} on {time_stamp_phrase}',
+  'are_you_sure' => 'B&#7841;n c&#243; ch&#7855;c kh&#244;ng?',
+  'close' => '&#272;&#243;ng',
+  'delete' => 'X&#243;a',
+  'favorites' => 'M&#7909;c &#432;a th&#237;ch',
+  'full_name_has_closed_their_favorites_section' => '<a href="{user_link}">{full_name}</a> has closed their favorites section.',
+  'full_name_s_favorites' => 'Danh m&#7909;c &#432;a th&#237;ch c&#7911;a {full_name}',
+  'menu_favorites' => 'M&#7909;c &#432;a th&#237;ch',
+  'module_favorite' => 'M&#7909;c &#432;a th&#237;ch',
+  'not_a_valid_module' => 'Not a valid module.',
+  'recently_added' => 'Recently Added',
+  'successfully_added_to_your_favorites' => '&#272;&#227; &#273;&#432;a v&#224;o m&#7909;c &#432;a th&#237;ch c&#7911;a b&#7841;n.',
+  'this_item_is_already_in_your_favorites_list' => 'Item n&#224;y &#273;&#227; c&#243; trong danh m&#7909;c &#432;a th&#237;ch c&#7911;a b&#7841;n.',
+  'to_add_items_to_your_favorite_list_simply_view_public_items_on_the_site' => '&#272;&#7875; th&#234;m v&#224;o "Danh m&#7909;c &#431;a th&#237;ch" c&#7911;a b&#7841;n, h&#227;y nh&#7845;n v&#224;o li&#234;n k&#7871;t "Add to Favorite" m&#7895;i khi xem c&#225;c th&#244;ng tin, &#273;&#7873; m&#7909;c... tr&#234;n site.',
+  'unable_to_add_this_item_as_a_favorite_due_to_privacy' => 'Unable to add this item as a "Favorite" due to privacy.',
+  'user_link_has_not_added_any_favorites_yet' => '{user_link} ch&#432;a c&#243; danh m&#7909;c &#432;a th&#237;ch n&#224;o.',
+  'view_favorites' => 'Xem m&#7909;c &#432;a th&#237;ch',
+  'view_your_favorites' => 'Xem m&#7909;c &#432;a th&#237;ch c&#7911;a b&#7841;n',
+  'you_do_not_have_any_items_or_users_listed_in_your_favorites_just_yet' => 'You do not have any items or users listed in your favorites just yet.',
+  'you_have_not_added_any_favorites_yet' => 'B&#7841;n ch&#432;a c&#243; "Danh m&#7909;c &#431;a th&#237;ch" n&#224;o.',
+); ?>

@@ -1,0 +1,1 @@
+{module name='friend.congratulate' iUser=$aUser.user_id}

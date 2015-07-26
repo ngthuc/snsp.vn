@@ -1,0 +1,10 @@
+<theme>
+	<name>Bootstraptheme</name>
+	<folder>bootstraptheme</folder>
+	<created>1375332759</created>
+	<creator>http://phpfoxexpert.com/</creator>
+	<website>http://phpfoxexpert.com/</website>
+	<version>3.6.0</version>
+	<total_column>2</total_column>
+	<parent>default</parent>
+</theme>

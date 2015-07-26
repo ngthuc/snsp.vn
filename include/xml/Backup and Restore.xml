@@ -1,0 +1,47 @@
+<product>
+	<data>
+		<product_id>Backup and Restore</product_id>
+		<is_core>0</is_core>
+		<title>Backup and Restore</title>
+		<description>Backup and Restore PhpFox files/databases</description>
+		<version>3.6.1</version>
+		<latest_version></latest_version>
+		<last_check>1385554024</last_check>
+		<is_active>1</is_active>
+		<url>http://phpfoxexpert.com/phpfox-plugins/Backup-And-Restore</url>
+		<url_version_check>NULL</url_version_check>
+	</data>
+	<installs>
+		<install>
+			<version>3.6</version>
+			<install_code><![CDATA[$this->database() ->query("CREATE TABLE IF NOT EXISTS `".Phpfox::getT('backuprestore_history')."` (
+`history_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+ `backed_file` mediumtext NOT NULL,
+  `time_stamp` int(10) NOT NULL,
+  `import_database_name` varchar(255) DEFAULT NULL,
+  `backup_types` varchar(500) NOT NULL,
+  `unique_gdrive` varchar(255) NOT NULL,
+  `unique_dropbox` varchar(255) NOT NULL,
+  `unique_server` varchar(255) NOT NULL,
+  `file_size` varchar(15) NOT NULL,
+  `type` enum('auto','manual') NOT NULL,
+  `folder_in_service` varchar(50) NULL,
+   PRIMARY KEY (`history_id`)
+);");
+
+$this->database() ->query("
+CREATE TABLE IF NOT EXISTS `".Phpfox::getT('backuprestore')."` (  
+`backuptd_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+					  `setting_name` varchar(255) NOT NULL,
+					  `setting_value` longtext NOT NULL,
+					  PRIMARY KEY (`backuptd_id`)
+					);
+				 ");]]></install_code>
+			<uninstall_code><![CDATA[$this->database() -> query("DROP TABLE `".Phpfox::getT('backuprestore_history')."`;");
+$this->database() -> query("DROP TABLE `".Phpfox::getT('backuprestore')."`;");]]></uninstall_code>
+		</install>
+	</installs>
+	<modules>
+		<module_id>backuprestore</module_id>
+	</modules>
+</product>

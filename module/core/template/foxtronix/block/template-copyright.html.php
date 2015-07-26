@@ -1,0 +1,1 @@
+{param var='core.site_copyright'} &nbsp;&nbsp; {module name="language.select"}

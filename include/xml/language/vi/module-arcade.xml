@@ -1,0 +1,623 @@
+<phrases>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="admin_menu_settings" added="1256217055">Settings</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="admin_menu_category" added="1256217055">Category</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="module_arcade" added="1256217055">Konsort.org Arcade</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_footer_link" added="1256327009">Konsort.org Link</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_activitypoints" added="1256327009">Activity Points</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_guestplay" added="1256327155">Guests can play</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_tied_highscore_priority" added="1256327198">Tied Highscore Priority</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_scores_per_user" added="1256327225">Scores per user</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_enable_mochi" added="1256327259">Enable MochiMedia Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_mochi_publisher_id" added="1256327284">Mochi Publisher Id</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_import_images" added="1256327307">Import Images</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_show_top_games_on_member" added="1256327349">Show Top Games on Member Home</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_show_top_games_on_visitor" added="1256327375">Show Top Games on Visitor Home</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_show_news_on_member" added="1256327412">Show Arcade News on Member Home</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_show_champs_on_profile" added="1256327475">Show Arcade Champs on Profile</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_settings" added="1256327632">Arcade Settings</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_change" added="1256327687">Change</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_general_settings" added="1256332532">General Settings</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_mochi_settings" added="1256332605">Mochi Settings</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_homepage_settings" added="1256332719">Home Page Settings</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_profile_settings" added="1256332779">Profile Page Settings</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_options_changed" added="1256333066">Arcade options successfully changed.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_categories" added="1256337341">Categories</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_provide_numeric_order_value" added="1256337470">Please provide a integer value for order.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_provide_name" added="1256337529">Please provide a name.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_edit_category" added="1256338020">Edit Categories</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_add_category" added="1256338176">Add Category</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_name" added="1256338333">Name</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_order" added="1256338628">Order</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_add" added="1256338653">Add</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_category_has_been_added" added="1256338947">Category has been added.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_error_in_creation" added="1256339239">Category could not be created.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_id" added="1256346975">Id</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_edit" added="1256347004">Edit</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_delete" added="1256347025">Delete</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_cancel" added="1256347025">Cancel</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_none_listed" added="1256347065">There are no categories created.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_edit_categories" added="1256347115">Edit Categories</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_change" added="1256354425">Change</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_category_has_been_changed" added="1256355058">Category has been changed.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_error_in_change" added="1256355099">Category could not be changed.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_go_back" added="1256355244">Go Back</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_deletion_options" added="1256355366">Deletion Options</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_remove_games_assigned_to_category" added="1256355366">Remove games assigned to category</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_yes" added="1256355379">Yes</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_no" added="1256355393">No</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_category_has_been_deleted" added="1256355644">Category has been deleted.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_edit_category2" added="1256358324">Edit Category</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_mochi_sync" added="1256407530">MochiMedia Sync Categories</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_please_run_the_install_again" added="1256409621"><![CDATA[The MochiMedia category list must be imported before you can import MochiMedia games. <a href="{link}">Click here to import the MochiMedia category list.</a>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_synced_to" added="1256410201">Synchronized To</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_category_has_been_removed" added="1256557406">Category has been removed.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_edit_mochi_category" added="1256557453">Edit Mochi Category</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_mochi_category_name" added="1256557507">MochiMedia Category Name</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_add_to_category" added="1256557541">Synchronize with arcade category</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_currently_assigned_to" added="1256557593">Currently synchronized with</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_mochi_category_has_not_been_assigned" added="1256557651">Mochi category has not been assigned.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="admin_menu_add_games" added="1256563111">Add Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_regular_games" added="1256564234">Ibpro / V32 Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_number_of_games" added="1256564260">Number of Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_add_single_game" added="1256564297">Add Single Game</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_add_mass_games" added="1256564322">Add Mass Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_mochi_games" added="1256564349">MochiMedia Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_add_games" added="1256564384">Add Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_add_a_regular_game" added="1256565488">Add a Regular Game</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_general_info" added="1256565894">General Info</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_title" added="1256565942">Title</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_description" added="1256566045">Description</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_directions" added="1256566158"><![CDATA[H&#432;&#7899;ng d&#7851;n Ch&#417;i game]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_link" added="1256566883">Link</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_controls" added="1256566969">Controls</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_search_info" added="1256567107">Search Info</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_category" added="1256567132">Category</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_keywords" added="1256567395">Keywords</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_maturity_rating" added="1256571748">Maturity Rating</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_everyone" added="1256571767">Everyone</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_teen" added="1256571782">Teen</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_mature" added="1256571798">Mature</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_swf_file" added="1256572411">Swf File</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_image_file" added="1256572430">Image File</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_swf_width" added="1256572451">Swf Width</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_swf_height" added="1256572471">Swf Height</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_add_game" added="1256572497">Add Game</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_supports_scoring" added="1256572684">Supports Scoring</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_scoring_style" added="1256572705">Scoring Style</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_yes" added="1256572722">Yes</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_no" added="1256572737">No</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_normal" added="1256572751">Normal</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_reverse" added="1256572769">Reverse</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_swf_info" added="1256573099">Swf Info</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_none" added="1256573192">None</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_errors" added="1256577821">Errors</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_please_chmod_image_folder" added="1256577879">Please CHMOD the /file/arcade/images/ folder to 0777.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_please_chmod_swf_folder" added="1256577919">Please CHMOD the /file/arcade/swf/ folder to 0777.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_provide_a_title" added="1256577981">Provide a title for the game.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_provide_a_width_for_swf" added="1256578017">Provide a width for swf file.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_provide_a_height_for_swf" added="1256578049">Provide a height for swf file.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_provide_a_valid_swf_file" added="1256578089">Upload a valid swf file.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_swf_file_already_exists" added="1256578134">Swf file with that name already exists.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_game_has_been_added" added="1256580111">Game has been added.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_game_could_not_be_added" added="1256580132">Game could not be added.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_unknown_error" added="1256580166">Unknown error occurred.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_image_file_was_not_valid" added="1256580204">Image file is not valid.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_warning" added="1256580258">Warning</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_mochi_id_tag" added="1256582314">Mochi ID/Tag</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_find_mochi_game" added="1256582396">Find Mochi Game</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_find" added="1256582426">Find</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_please_provide_a_mochi_publisher_id" added="1256582775">Please provide a Mochi Publisher Id in the arcade settings page.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_add_a_mochi_game" added="1256605993">Add a Mochi Game</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_all" added="1256609100">All</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_mochi_category" added="1256610784">Mochi Category</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_go_back" added="1256662653">Go Back</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_game_already_exists" added="1256662684">Mochi game already exists.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_game_could_not_be_found" added="1256662684">Mochi game could not be found.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_mochi_mass_game_adder" added="1256663684">Mochi Mass Game Adder</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_game_category" added="1256663813">Game Category</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_increment_number" added="1256663896">Increment Number</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_mochi_categories_dne" added="1256664417"><![CDATA[Mochi categories do not exist. <a href="{link}">Please run the install/update script by clicking here.</a>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_start" added="1256684455">Start</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_i_games_were_added" added="1256690520"><![CDATA[You have imported {igames} total MochiMedia games in the {scategory} category. There's still more! Click the 'Add More' button below to continue.]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_i_games_were_added2" added="1256690520"><![CDATA[You have imported {igames} total MochiMedia games. There's still more! Click the 'Add More' button below to continue.]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_i_games_of_i_total_were_added" added="1256690520">{igames} out of {itotal} total games were added.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_games_have_added_to_the_category" added="1256692835"><![CDATA[{itotal} games have added to the category. You're finished!]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_featured_games_have_added" added="1256692836">Featured games have added.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_i_games_already_have_been_installed" added="1256690607">{igames} game(s) already have been installed.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_error" added="1256690630">Error</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_i_games_failed_to_be_added" added="1256690806">{igames} games failed to be added.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_failed_game_installs" added="1256691148">Failed Game Installs</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_file_location" added="1256691263">File Location</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_failed_game_installs_already_exist" added="1256691473">Failed Game Install (Already Installed)</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_installed_games" added="1256691515">Installed {sCat} Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_installed_games2" added="1256691516">Installed Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_add_more" added="1256692834">Add More</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="stats_game_stats" added="1256741543">Games Stats</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="stats_build_stats" added="1256741570">Build Stats</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="stats_reset_stats" added="1256741599">Reset Stats</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="stats_number_of_games" added="1256741631">Total Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="stats_number_of_regular_games" added="1256741658">Total IbPro / V32 Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="stats_number_of_mochi_games" added="1256741687">Total MochiMedia Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="stats_highscore_stats" added="1256741711">Highscore Stats</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="stats_number_of_games_with_highscores" added="1256741740">Number of Games with Highscores</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="stats_number_of_highscores" added="1256741771">Number of Highscores</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="stats_regular_stats" added="1256741800">Activity Statistics</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="stats_number_of_games_with_scores" added="1256741833">Games with at least one score submitted</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="stats_games_with_no_score_submitted" added="1256741833">Games with no score submitted</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="stats_number_of_scores" added="1256742004">Total number of scores submitted</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="stats_number_of_users_with_scores" added="1256742036">Users with at least one score submitted</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="admin_menu_edit_games" added="1256742093">Edit Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="stats_stats" added="1256742143">Statistics</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_stats_have_been_reset" added="1256742659">Stats have been reset.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_reset_arcade_stats" added="1256742698">Reset Arcade Stats</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_confirm_scores_reset" added="1256742732">Confirm All Highscores Reset:</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_reset_arcade_champs" added="1256742784">Reset Arcade Champs</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_reset" added="1256742817">Reset</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_reset_stats" added="1256742881">Reset Stats</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_click_the_button_below_to_reset_scores" added="1256743251"><![CDATA[Select 'Yes' below to confirm before resetting. This is not undoable.]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_please_select_stat_type_to_rebuild" added="1256831161">Please select stat type to rebuild.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_stats_to_rebuild" added="1256831192">Stats to Rebuild</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_errors" added="1256831300">Errors</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_build_stats" added="1256847883">Build Stats</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_rebuild_arcade_stats" added="1256847924">Rebuild Arcade Stats</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_games_per_loop" added="1256847969">Games Per Loop</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_start" added="1256848032">Start</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_stats_have_been_built" added="1256848739">Your statistics have been rebuilt to reflect your current settings.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_rebuildings_stats_for_games" added="1256849390">Updated {istart} through {iend} out of {itotal} total MochiMedia games.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_continue" added="1256851153">Continue</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="stats_build_other" added="1256852453">Build Other</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_please_select_type_to_rebuild" added="1256852756">Please select type to rebuild.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_cannot_rebuild_points_activity_points_are_currently_set_at_zero" added="1256853677">Cannot rebuild activity points. The setting Activity Point is currently set at zero.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_rebuild_other_arcade_information" added="1256854912">Rebuild other arcade information.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuildother_blurb" added="1256855116"><![CDATA[Using this script will rebuild your users' total game plays and arcade activity points. All existing information regarding this information will be cleared, then rebuilt  based on your current settings. For instance, if you changed the arcade activity point reward from 1 to 2, you would run this script to retroactively give the additional reward to your arcade users for their previous activity.]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_users_per_loop" added="1256855138">Users Per Loop</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="arcade_statsbuild_rebuildings_stats_for_user" added="1256855229">Rebuilding Stats for {istart} to {iend} of {itotal} Total Users.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_build_other_stats" added="1256855370">Build Other Stats</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="admin_menu_clean_database" added="1256859016">Clean Database</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="clean_clean_news" added="1256910692">Clean News</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="clean_clean_challenges" added="1256910730">Clean Challenges</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="clean_reset_stats" added="1256910769">Reset Scores and Stats</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="clean_clean_database" added="1256910814">Clean Database</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="clean_number_of_news_msgs" added="1256910869">Number of News Messages</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="clean_database_info" added="1256910936">Database Info</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="clean_date_of_oldest_news_msg" added="1256911224">Date of Oldest News Message</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="clean_number_of_challenges" added="1256911252">Number of Challenges</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="clean_date_of_oldest_challenge" added="1256911278">Date of Oldest Challenge</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="clean_clean_game_ratings" added="1256911345">Clean Game Ratings</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleannews_arcade_news_has_been_cleaned" added="1256912315">Arcade News has been cleaned.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleannews_clean_arcade_news_table" added="1256912582">Clean Arcade News Table</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleannews_start_date" added="1256912606">Start Date</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleannews_end_date" added="1256912625">End Date</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleannews_start" added="1256912662">Start</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleannews_loading" added="1256912681">Loading...</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleannews_errors" added="1256913211">Errors</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleannews_clean_arcade_news" added="1256914199">Clean Arcade News</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleannews_please_provide_a_start_date" added="1256919691">Please provide a start date.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleannews_please_provide_a_end_date" added="1256919712">Please provide an end date.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleannews_start_and_end_date_cannot_be_the_same" added="1256919738">Start and end date cannot be the same.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleannews_end_date_cannot_be_older_than_start_date" added="1256920213">End date cannot be older than start date.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanchallenge_errors" added="1256920866">Errors</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanchallenge_arcade_challenges_have_been_cleaned" added="1256920922">Arcade challenges have been cleaned.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanchallenge_clean_arcade_challenge_table" added="1256920950">Clean Arcade Challenge Table</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanchallenge_start_date" added="1256920970">Start Date</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanchallenge_end_date" added="1256920987">End Date</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanchallenge_start" added="1256921002">Start</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanchallenge_no" added="1256921057">No</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanchallenge_yes" added="1256921080">Yes</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanchallenge_include_active_challenges_within_time_frame" added="1256921122">Include active challenges within time frame</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanchallenge_loading" added="1256921151">Loading...</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanchallenge_clean_arcade_challenges" added="1256921346">Clean Arcade Challenges</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanratings_errors" added="1256924738">Errors</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanratings_arcade_ratings_have_been_cleaned" added="1256924783">Arcade rating(s) have been cleaned.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanratings_clean_arcade_ratings_table" added="1256924860">Clean Arcade Ratings Table</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanratings_clear_ratings_by_game_type" added="1256925072">Clear game ratings by game type:</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanratings_loading" added="1256925143">Loading...</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanratings_clean" added="1256925167">Clean</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanratings_or" added="1256925334">Or</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanratings_clear_rating_by_game_id" added="1256925381">Clear rating by specific game ID:</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanratings_clean_arcade_ratings" added="1256925470">Clean Arcade Ratings</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanratings_game_dne" added="1256925752">Game does not exist.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanratings_please_select_game_type_to_clear" added="1256925964">Please select a game type to clear.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_please_chmod_gamedata_folder" added="1256928402">Please CHMOD file/arcade/gamedata/ folder to 0777.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_please_chmod_extras_folder" added="1256928437">Please CHMOD file/arcade/extras/ folder to 0777.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_mass_game_adder_instructions" added="1256928676">Mass Game Adder Instructions</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_mass_game_adder_instructions_txt" added="1256928788"><![CDATA[<p>1. Upload your game folders to yourdomain.com<strong>/file/arcade/upload/</strong><br/>2. <strong>CHMOD</strong> the entire <strong>/arcade</strong> folder and its contents to <strong>777</strong><br/>3. Refesh this page and the games will automatically be detected.</p>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_please_create_game_categories_before_proceeding" added="1256929553">Please create game categories before proceeding.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_mass_game_adder" added="1256929620">Mass Game Adder</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_inum_games_found_in_upload_folder" added="1256929715">{inum} games found in the file/arcade/upload/ folder.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_add_these_games_to_selected_category" added="1256929956">Add these games to selected category</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_inum_games_found_in_upload_folder2" added="1256930127">{inum} games found in the file/arcade/upload/{subfolder}/</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_add" added="1256930342">Add</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_game_install_complete" added="1256930816">Game installation complete.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_successful_installs" added="1256930898">Successful Installs</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_bad_permissions" added="1256930991">Bad Permissions</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_bad_permission_error" added="1256931108"><![CDATA[For "<strong>Bad Permission</strong>" errors, make sure that you CHMOD all of the <strong>/file/arcade/upload/</strong> folder and all of its contents every time before running the mass installer.]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_already_installed" added="1257101393">Already installed</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="admin_menu_statistics" added="1257112606">Statistics</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_edit_games" added="1257187674">Edit Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_find_games" added="1257187702">Find Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgame_search" added="1257187742">Search</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_within" added="1257187760">within</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_title" added="1257187781">Title</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_keywords" added="1257187796">Keywords</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_all" added="1257187819">All</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_category" added="1257187849">Category</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_game_types" added="1257187875">Game Types</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_show_regular" added="1257187897">Show Regular</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_show_mochi" added="1257187911">Show Mochi</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_everyone" added="1257187952">Everyone</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_teen" added="1257187994">Teen</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_mature" added="1257188018">Mature</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_find" added="1257188044">Find</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_ma_rating" added="1257188074">MA Rating</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_image" added="1257188090">Image</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_description" added="1257188144">Description</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_filesize" added="1257188170">File Size</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_edit" added="1257188190">Edit</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_delete" added="1257188208">Delete</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_none_listed" added="1257188285">None Listed</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_none" added="1257188873">None</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_games" added="1257189029">Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_confirm_deletion" added="1257269580">Confirm Deletion</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_game_has_been_removed" added="1257269633">Game has been removed.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_go_back" added="1257269647">Go Back</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_game_cannot_be_found" added="1257269671">Game cannot be found.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_yes" added="1257269750">Yes</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_no" added="1257269771">No</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_curent_swf_file" added="1257271540">Current Swf File</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_curent_image_file" added="1257271575">Current Image File</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_no_image" added="1257271689">No Image</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_edit_game" added="1257271722">Edit Game</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_game_has_been_changed" added="1257271756">Game has been changed.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_error_in_change" added="1257271789">Error in change.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_warnings" added="1257272755">Warnings:</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topstats_site_stats" added="1257277907"><![CDATA[Th&#7889;ng k&#234; Game]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topstats_total_games" added="1257278396">Total Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topstats_total_scores" added="1257278416">Total Scores</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topstats_total_scores_today" added="1257278434">Total Scores Today</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topstats_total_challenges" added="1257278458">Total Challenges</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topgames_played_on_date" added="1257344821">Last played: {date}</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topgames_total_plays" added="1257345138"><![CDATA[L&#432;&#7907;t ch&#417;i]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topstats_arcade_stats" added="1257346522"><![CDATA[Th&#7889;ng k&#234; Game]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topgames_top_games" added="1257348236">Top Arcade Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topgames_no_records_set" added="1257348350">No records set.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topusers_points" added="1257350483">Total Points</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topusers_champs" added="1257350513">Total Champs</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topusers_user" added="1257350483">User</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topusers_top_users" added="1257350535">Top Arcade Users</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topgamesshort_arcade_leaders" added="1257359345">Arcade Leaders</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topgamesshort_champs" added="1257359369">Champs</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="arcadenews_arcade_news" added="1257445949">Arcade News</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="arcadenews_prompt0" added="1257447502">{num}. {username} has just posted high score of {score} for {game} at {date}</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="arcadenews_prompt1" added="1257448503">{num}. {winner} beat {loser} highscore with a score of {score} for {game} at {date}</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="arcadenews_prompt2" added="1257448834">{num}. {winner} beat {loser} with a score of {score} for {game} at {date}</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="search_arcade_search" added="1257450319"><![CDATA[T&#236;m ki&#7871;m Game]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="search_category" added="1257451842">Category</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="search_keyword" added="1257452673"><![CDATA[Nh&#7853;p t&#234;n game]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="search_search" added="1257452843">Search</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="search_most_played" added="1257454147">Most Played</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="index_arcade_games" added="1257457505"><![CDATA[Ch&#417;i Game Online]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="index_total_plays" added="1257457847"><![CDATA[L&#432;&#7907;t ch&#417;i]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="index_no_games_available" added="1257457902">No games available.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_footer_link" added="1257465034"><![CDATA[<title>Show Konsort.org Link</title><info>Shows the Konsort.org Link on the bottom of the Arcade Pages</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_mochi_on" added="1257465034"><![CDATA[<title>Enable Mochi Games</title><info>Allows the games added from MochiMedia to be shown on the public side of the arcade.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_mochi_id" added="1257465217"><![CDATA[<title>Mochi Publisher Id</title><info>Your Mochi Publisher Id</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_activity_points" added="1257465675"><![CDATA[<title>Activity Points</title><info>Sets the amount of activity points awarded per arcade game play. If set to zero, no points will be awarded.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_favorites" added="1257466112"><![CDATA[<title>Enable Game Favorites</title><info>If enabled, the users will be able to save games as their favorites. It will make access to certain games faster.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_challenges" added="1257466192"><![CDATA[<title>Enable Challenges</title><info>Sets the User Challenges Feature On or Off.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_highscore_priority" added="1257466961"><![CDATA[<title>Highscore Priority</title><info>This setting decides the tie breaker if multiple users submit the exact same highscore for an arcade game.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_user_scoring" added="1257467212"><![CDATA[<title>User Scoring Type</title><info>Sets whether you would prefer there to be only one highscore per user per game or multiple highscores per user per game.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_disable_non_scoring" added="1257467212"><![CDATA[<title>Disable Non-Scoring Games</title><info>Setting this to &#039;true&#039; will disable all non-highscore compatible games from showing on your arcade. This will include all single and multi-player games that do not record scores.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="index_none" added="1257487888">None</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="index_highscore_of_score_by_user" added="1257517184"><![CDATA[Champion: <a href="{link}">{username}</a> with a high score of {score}]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="index_highscore" added="1257517227">Highscore</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="index_your_score" added="1257517292">Your Score</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="index_average_rating" added="1257517293"><![CDATA[&#272;i&#7875;m &#272;&#225;nh gi&#225;]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="index_play" added="1257519095"><![CDATA[Ch&#417;i ngay]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="index_drop_favorite" added="1257519559"><![CDATA[X&#243;a kh&#7887;i Game y&#234;u th&#237;ch]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="index_add_favorite" added="1257519596"><![CDATA[Th&#234;m v&#224;o Game y&#234;u th&#237;ch]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="index_challenge" added="1257519614">Challenge</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="index_highscores" added="1257519630">Highscores</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="scores_drop_favorite" added="1257528401"><![CDATA[X&#243;a kh&#7887;i Game y&#234;u th&#237;ch]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="scores_highscores" added="1257528422">Highscores</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="scores_add_favorite" added="1257528438"><![CDATA[Th&#234;m v&#224;o Game y&#234;u th&#237;ch]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="scores_play" added="1257528453"><![CDATA[Ch&#417;i ngay]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="scores_challenge" added="1257528522">Challenge</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="champ_game_champion" added="1257547244">Game Champion</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="champ_score" added="1257547538">Score</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="champ_date_posted" added="1257547558">Date Posted</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="scores_user" added="1257551820">User</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="scores_score" added="1257551835">Score</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="scores_date_posted" added="1257551850">Date Posted</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_comment_scores" added="1257552847"><![CDATA[<title>Comment on Highscores Page</title><info>When set to True, users will have the ability to comment on the selected game's highscore page.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="arcade_can_post_comment_on_game" added="1257555664">Can post comment on game.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="user_setting_comment_scores" added="1257556055">Comments allowed on Highscore Page</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topstats_arcade_elites" added="1257564867"><![CDATA[Game &#273;&#225;nh gi&#225; cao]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_arcade_favorites" added="1257566020">Arcade Favorites</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_last_played_on_time" added="1257567317">Last played on {lastDate}</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_your_best" added="1257578237">Your Best</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_view_all" added="1257579869">View All</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_none" added="1257580076">None</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_no_games_set_as_your_favorite" added="1257605585">No games set as your favorites.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_drop_favorite" added="1257605815"><![CDATA[X&#243;a kh&#7887;i Game y&#234;u th&#237;ch]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_challenge" added="1257605856">Challenge</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_highscores" added="1257605926">Highscores</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_play" added="1257605952"><![CDATA[Ch&#417;i game]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_total_plays" added="1257606041"><![CDATA[L&#432;&#7907;t ch&#417;i]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_highscore_of_score_by_user" added="1257606167"><![CDATA[Highscore of {score} by <a href="{link}">{username}</a>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_highscore" added="1257606228">Highscore</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_your_score" added="1257606279">Your Score</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_page_not_found" added="1257606619">Page cannot be found.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_game_has_been_removed" added="1257606811">Game has been removed from favorites.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_game_has_been_added" added="1257606869">Game has been added to favorites.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="favorites_game_is_already_a_favorite" added="1257607024">Game is already your favorite.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="profile_arcade_champions" added="1257613262">Arcade Champions</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="profile_arcade_points" added="1257613278">Arcade Points</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="profile_arcade_plays" added="1257613294">Arcade Plays</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="profile_last_activity" added="1257613313">Last Activity</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="profile_arcade_info" added="1257613333">Arcade Info</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_game_name" added="1257616992">Game Title</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_opponent" added="1257617042">Opponent</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_search" added="1257617061">Search</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_challenge" added="1257617089">Challenge</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_arcade_challenges" added="1257625795">Arcade Challenges</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_none" added="1257625815">None</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_undecided" added="1257625835">Undecided</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_name" added="1257627131">Game Name</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_challenger" added="1257627155">Challenger</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_challenger_score" added="1257696020">Challenger Score</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_opponent_score" added="1257696070">Opponent Score</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_winner" added="1257696088">Winner</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_play" added="1257696590"><![CDATA[Ch&#417;i game]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_challenges_challenge_msg_content" added="1257705024"><![CDATA[<title>Challenge - Notification Message - Initiate - Content</title><info>If challenges are enabled and a user initiates a challenge, this will be the body of the notification message sent to the receiving user. Available replacement variables: {user}, {challenger}, {game}, and {link}</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_challenges_challenge_msg_title" added="1257705266"><![CDATA[<title>Challenge - Notification Message - Initiate - Title</title><info>If challenges are enabled and a user initiates a challenge, this will be the title of the notification message sent to the receiving user. Available replacement variables: {challenger}, {user}</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_challenge_has_been_sent" added="1257710031">Challenge has been sent.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_challenges_has_been_removed" added="1257710100">Challenge(s) has been removed.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_no_games_found" added="1257710606">No games found.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_delete" added="1257711231">Delete Selected</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_create_challenge" added="1257712185">Create Challenge</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_select_game" added="1257712390">Select Game</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_select_user" added="1257712390">Select User</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_game" added="1257712542">Game</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_no_user_found" added="1257717323">No user found.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="challenge_user" added="1257717657">User</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="menu_arcade" added="1257720248"><![CDATA[Ch&#417;i Game Online]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="menu_arcade_elites" added="1257720474"><![CDATA[Game &#273;&#225;nh gi&#225; cao]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="menu_your_challenges" added="1257720560"><![CDATA[Th&#225;ch &#273;&#7889;]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="menu_my_favorites" added="1257720596"><![CDATA[Game Y&#234;u th&#237;ch]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="menu_arcade_games" added="1257720642"><![CDATA[T&#7845;t c&#7843; Game]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="game_game" added="1257734649">Play Game: {gamename}</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="game_none" added="1257734650">None</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_provide_a_shortname" added="1257798634">Provide a shortname.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_shortname" added="1257798705">Shortname</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_challenges_challenge_msg2_content" added="1257802721"><![CDATA[<title>Challenge - Notification Message - First Scorer - Content</title><info>If a challenge is already initiated and a challenged user submits a highscore, this will be the body of the notification message sent to the opposing user. Available replacement variables: {user}, {opponent}, {score}, {game}, {link}</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_challenges_challenge_msg2_title" added="1257803094"><![CDATA[<title>Challenge - Notification Message - First Scorer - Title</title><info>If a challenge is already initiated and a challenged user submits a highscore, this will be the title of the notification message sent to the opposing user. Available replacement variables: {user}, {opponent}, {score}, {game}</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="settings_for_settings_click_here" added="1257833939">For settings click here.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_challenges_challenge_msg3_content" added="1257866650"><![CDATA[<title>Challenge - Notification Message - Challenge Completed - Content</title><info>When the second challenged user submits his or her highscore, the challenge is complete. This is the title of the notification message that the opposing member will receive. Available replacement variables: {user}, {game}, {challengePage}</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_challenges_challenge_msg3_title" added="1257866854"><![CDATA[<title>Challenge - Notification Message - Challenge Completed - Title</title><info>When the second challenged user submits his or her highscore, the challenge is complete. This is the title of the notification message that the opposing member will receive. Available replacement variables: {user}, {game}, {challengePage}</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="arcade_challenge_page" added="1257866891">Challenge Page</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_author" added="1257953775">Author</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_add_games_by_new_category" added="1257954509">Click here to add games from a different category.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="statsbuild_settings_changed" added="1257968114">Your Arcade Settings have been updated. If you altered any high score affecting settings, you may want to rebuild your arcade information to reflect those changes.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="cleanratings_arcade_ratings_for_game_have_been_cleaned" added="1257969475"><![CDATA[Arcade ratings for game have been cleared. <a href="{urlGame}">Edit Game</a>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_rating" added="1257969867">Rating</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_reset_rating" added="1257969963">Reset Rating</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="scores_score_has_been_recorded" added="1257970940">Score has been recorded.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="game_game_dne" added="1257976023">Game does not exist.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="rebuildmochi_rebuild_mochi_categories" added="1257976027">Rebuild Mochi Categories</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="rebuildmochi_mochi_categories_have_been_rebuilt" added="1257976027">Mochi categories have been rebuilt.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_the_follow_categories_are_not_synced_to_a_mochi_category" added="1257976028">The following categories are not synced to a mochi category</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="gameinfo_game_info" added="1257976028"><![CDATA[Th&#244;ng Tin V&#7873; Game]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="gameinfo_title" added="1257976028"><![CDATA[T&#234;n]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="gameinfo_description" added="1257976028"><![CDATA[M&#244; t&#7843; Game]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="gameinfo_total_plays" added="1257976028"><![CDATA[L&#432;&#7907;t ch&#417;i]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="gameinfo_arcade_champion" added="1257976028">Arcade Champion</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="gameinfo_score_to_beat" added="1257976028">Score to Beat</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="gameinfo_your_best" added="1257976028">Your Best</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="gameinfo_add_to_favorites" added="1257976028"><![CDATA[Th&#234;m v&#224;o Game Y&#234;u th&#237;ch]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="gameinfo_drop_from_favorites" added="1257976028"><![CDATA[X&#243;a kh&#7887;i Game y&#234;u th&#237;ch]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="gameinfo_challenge_a_friend" added="1257976028">Challenge a Friend</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="gameinfo_view_all_highscores" added="1257976028">View All Highscores</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="you_rated" added="1257976028"><![CDATA[&#272;&#225;nh gi&#225;]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="total_ratings" added="1257976028">{total_rating} Ratings</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topgames_highscore_of_score_by_user" added="1257976028">Champion: {username} with a high score of {score}</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topgames_highscore" added="1257976028">Champion</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topgames_your_score" added="1257976028">Your Score</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topgames_average_rating" added="1257976028"><![CDATA[&#272;i&#7875;m &#272;&#225;nh gi&#225;]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topgames_most_played" added="1257976028"><![CDATA[Game Nhi&#7873;u Ng&#432;&#7901;i Ch&#417;i]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topgames_top_rated" added="1257976028"><![CDATA[Game &#272;&#432;&#7907;c &#273;&#225;nh gi&#225; cao]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="topgames_sort_by" added="1257976028">Sort By</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="rating_already_rated_game" added="1258912867">You have already rated this game.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_mochi_prompt" added="1257976028"><![CDATA[The panel below allows you to synchronize MochiMedia categories with your standard Arcade categories. If you do not sync a MochiMedia category with a standard Arcade category, any games under that MochiMedia category will display as "Uncategorized" on the public side of the Arcade.]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="any" added="1257976028">Any</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_enable_highscores_updates_feed" added="1259858518"><![CDATA[<title>Enable Highscores in Update Feed</title><info>When enabled, shows the latest highscores on the updates feed.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_enable_challenges_updates_feed" added="1259860038"><![CDATA[<title>Enable Challenges in Update Feed</title><info>When enabled, displays the challenges in the update feed.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="updatefeed_prompt0" added="1257447502"><![CDATA[<a href="{userUrl}">{userName}</a> has just posted a new high score of {score} for <a href="{gameUrl}">{game}</a>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="updatefeed_prompt1" added="1257448503"><![CDATA[<a href="{winnerUrl}">{winnerName}</a> beat <a href="{loserUrl}">{loserName}</a>'s high score with a score of {score} for <a href="{gameUrl}">{game}</a>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="updatefeed_prompt1_his" added="1257448503"><![CDATA[<a href="{winnerUrl}">{winnerName}</a> beat his own high score with a score of {score} for <a href="{gameUrl}">{game}</a>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="updatefeed_prompt1_her" added="1257448503"><![CDATA[<a href="{winnerUrl}">{winnerName}</a> beat her own high score with a score of {score} for <a href="{gameUrl}">{game}</a>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="updatefeed_prompt1_hisher" added="1257448503"><![CDATA[<a href="{winnerUrl}">{winnerName}</a> beat his or her own highscore with a score of {score} for <a href="{gameUrl}">{game}</a>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="updatefeed_prompt2" added="1257448834"><![CDATA[<a href="{winnerUrl}">{winnerName}</a> beat <a href="{loserUrl}">{loserName}</a> in a challenge with a score of {score} for <a href="{gameUrl}">{game}</a>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_mochi_file_import" added="1259957854"><![CDATA[<title>Import Physical MochiMedia Games Files</title><info>Importing the physical game files such as images and .SWF files are necessary to receive credit from MochiMedia to earn advertising revenue.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_group_konsortorg_arcade" added="1261581671"><![CDATA[<title>Konsort.org Arcade</title><info>Konsort.org Arcade Settings</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_kongregate_on" added="1261581672"><![CDATA[<title>Enable Kongregate Games</title><info>Allows the games added from Kongregate to be shown on the public side of the arcade.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_come2play_on" added="1261581673"><![CDATA[<title>Enable Come2Play Games</title><info>Allows the games added from Come2Play to be shown on the public side of the arcade.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_highscore_email_msg_content" added="1261581674"><![CDATA[<title>Highscore Beat - Notification Email - Content</title><info>If user&#039;s highscore is defeated, this will be the body of the notification email sent to the receiving user. Available replacement variables: {user}, {score}, {game}, and {link}</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_highscore_email_msg_title" added="1261581675"><![CDATA[<title>Highscore Beat - Notification Email - Title</title><info>If user&#039;s highscore is defeated, this will be the title of the notification email sent to the receiving user. Available replacement variables: {score}, {game}, {user}</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_highscore_email_on" added="1261581676"><![CDATA[<title>Enable Highscore is Beaten Email</title><info>Allows an email to be sent to a user when his/her highscore is defeated.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_mochi_show_highscore_only" added="1261581677"><![CDATA[<title>Only Show MochiMedia Highscore Games</title><info>Only displays the MochiMedia games with highscore compatiblity on the public side.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_mochi_only_import_featured" added="1261581678"><![CDATA[<title>Only Import MochiMedia Featured Games</title><info>Only imports the MochiMedia games that are featured.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="rebuildgames_rebuild_games" added="1261581679">Rebuild Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="rebuildgames_continue" added="1261581679">Continue</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="rebuildgames_errors" added="1261581680">Errors</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_update_mochi_game_files" added="1261581679">Update MochiMedia Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="rebuildgames_rebuild_mochi_prompt" added="1261581679"><![CDATA[This script will import fresh MochiMedia files for your imported games. This is a good thing to do to stay up to date in case MochiMedia's games or game text have been updated. If you imported MochiMedia games without importing the physical files, this script can accomplish that for you so that you can receive advertising revenue from game plays. Locally hosting game files is a requirement of MochiMedia in order to get credit for game plays. If you wish to locally host MochiMedia's game files, make sure you have the option to import physical files enabled in your <a href="{slink}">Arcade Settings</a>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="rebuildgames_games_have_been_rebuilt" added="1261581680">Games have been rebuilt.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="rebuildgames_rebuildings_games" added="1256849390">Rebuilding games. Built {istart} to {iend} of {itotal} Games.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="rebuildgames_there_are_games_that_need_to" added="1262804549">There are games that need the files to be imported from MochiMedia. Please run the following script.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_confirm_deletion" added="1262825610">Confirm Deletion</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_kongregate_mass_game_adder" added="1262849779">Kongregate Mass Game Adder</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_show_kongregate" added="1262852725">Show Kongregate</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="editgames_show_come2play" added="1262852739">Show Come2Play</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_show_menu" added="1262884355"><![CDATA[<title>Enable Tabular Menu on Arcade Index</title><info>Displays the categories in a tabular menu.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_game_has_been_added_to_arcade" added="1262897767">{game} has been added to the arcade.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_come2play_game_adder" added="1262898305">Come2Play Game Adder</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_all_come2play_games_have_been_added" added="1262898320">All Come2Play games have been added.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_there_are_num_come2play_games_that" added="1262899743">There are {num} Come2Play games that need to be installed.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_begin" added="1262899791">Begin</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_come2play_games" added="1262899895">Come2Play Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="addgames_kongregate_games" added="1262899951">Kongregate Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_kongregate_sync" added="1262905800">Kongregate Sync Categories</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="rebuildmochi_categories_have_been_rebuilt" added="1262906115">Categories have been rebuilt</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_kongregate_prompt" added="1262907338"><![CDATA[The panel below allows you to synchronize Kongregate categories with your standard Arcade categories. If you do not sync a Kongregate category with a standard Arcade category, any games under that Kongregate category will display as "Uncategorized" on the public side of the Arcade.]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="category_kongregate_sync_has_been_updated" added="1262907498">Kongregate sync has been updated.</phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_allow_custom_width" added="1263539080"><![CDATA[<title>Enable Custom Arcade Width</title><info>Allows the arcade module to set its own width for "Arcade Game Play" pages instead of using Phpfox's default width. This is very useful if you have games that exceed Phpfox's default width.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_custom_width" added="1263539209"><![CDATA[<title>Custom Arcade Width Addition</title><info>This number sets the width, in addition to the individual game's width. Usually, you will want this to be the width of your sidebar.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.1" var_name="setting_min_width" added="1263539259"><![CDATA[<title>Minimum Arcade Width</title><info>If the "Custom Arcade Width" plus the individual game's width does not exceed this number, the "Arcade Game Play" page will default to this width.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="remove_games" added="1266939821">Remove Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="mochimedia_games" added="1266940645">MochiMedia Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="come2play_games" added="1266940834">Come2Play Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="kongregate_games" added="1266940878">Kongregate Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="ibpro_slash_v32_games" added="1266940924">Ibpro / V32 Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="there_are_no_games_to_remove" added="1266941308">There are no games to remove.</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="select_game_type_to_remove" added="1266941495">Select game type to remove</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="games" added="1266941710">Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="there_are_inum_games_left_to_remove" added="1266944264">There are {inum} games left to remove</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="continue" added="1266944404">Continue</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="games_have_been_removed" added="1266944580">Games have been removed.</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="gameinfo_directions" added="1266946133"><![CDATA[H&#432;&#7899;ng d&#7851;n Ch&#417;i game]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="challenge_stats" added="1267110013">Challenge Stats</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="challenges_won" added="1267111324">Won</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="challenges_loss" added="1267111336">Loss</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="challenges_win_loss_ratio" added="1267111357">Win/Loss Ratio</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="there_are_no_results_for_challenges" added="1267111520">There are no results for challenges</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="stat_title_5" added="1267124408"><![CDATA[T&#7845;t c&#7843; Game]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="stat_title_6" added="1267127028">Total Arcade Plays</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="stat_title_7" added="1267127215">Total Arcade Plays Today</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="setting_activity_points_highscore" added="1267127584"><![CDATA[<title>Activity Points for Highscore</title><info>Sets the amount of activity points awarded when a user sets a new highest score for each game. If set to zero, no points will be awarded.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="setting_guests" added="1267129642"><![CDATA[<title>Guests Can Play</title><info>Regardless of any games played by the guests, they cannot post any scores or participate in user challenges.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="search_game_types" added="1267133958"><![CDATA[Ki&#7875;u game]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="both" added="1267133997">Both</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="feature" added="1267133998"><![CDATA[&#272;&#7863;t l&#224;m N&#7893;i b&#7853;t]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="unfeature" added="1267133999"><![CDATA[B&#7887; n&#7893;i b&#7853;t]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="the_game_is_now_featured" added="1267134000">The game is now featured.</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="featured_games" added="1267134001"><![CDATA[Game n&#7893;i b&#7853;t]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="with_highscores" added="1267134061">With High Scores</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="without_highscores" added="1267134073">Without High Scores</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="favorites_best_score" added="1267136227"><![CDATA[&#272;i&#7875;m cao nh&#7845;t]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="most_played_games" added="1267137794"><![CDATA[Game Nhi&#7873;u ng&#432;&#7901;i ch&#417;i]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="latest_arcade_games" added="1267138818"><![CDATA[Game m&#7899;i nh&#7845;t]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="recent_trophy_wins" added="1267140367">Recent Trophy Wins</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="username_for_game_name" added="1267140538">{username} for {game}</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="there_are_inum_mochimedia_games" added="1267885331">There are {inum} MochiMedia games.</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="gameinfo_report_game" added="1267887072"><![CDATA[B&#225;o c&#225;o Game n&#224;y]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="report_game_gamename" added="1267887443">Report Game: {gamename}</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="game_not_found" added="1267888376">Game not found</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="send_report" added="1267888863">Send Report</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="reason" added="1267888908">Reason</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="inappropriate" added="1267889121">Inappropriate</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="not_working" added="1267889132">Not Working</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="copyright_infringement" added="1267889146">Copyright Infringement</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="other" added="1267889261">Other</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="please_provide_a_description_for_report" added="1267889537">Please provide a description for report.</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="please_provide_a_reason_for_report" added="1267889585">Please provide reason for report.</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="report_has_been_sent" added="1267890029">Report has been sent!</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="admin_menu_reports" added="1267891064">Reports</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="setting_enable_iframe" added="1267987999"><![CDATA[<title>Enable I-Frame Embed Code</title><info>When enabled, embed code for the game is generated on the game page. Users can post the game on other sites and if the users are logged in, they can have the scores submit to this site.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="embed" added="1267989692">Embed</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="setting_allow_profile_games" added="1268262042"><![CDATA[<title>Allow Users to Add Game to Profile</title><info>When enabled, users can add and play a game to their profile page.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="add_to_profile" added="1268262147"><![CDATA[Th&#234;m v&#224;o h&#7891; s&#417;]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="remove_from_profile" added="1268281171">Remove from Profile</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="the_game_is_added_to_profile" added="1268283199">The game is added to profile!</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="the_game_is_removed_from_your_profile" added="1268284001">The game is removed from your profile.</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="you_must_be_logged_in_to_play_this_game" added="1268289442">You must be logged in to play this game.</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="setting_challenge_bets" added="1268291066"><![CDATA[<title>Bet Activity Points on Challenges</title><info>When challenges are enabled, users can bet using their activity points during game challenges.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="setting_show_nonscoring_tab" added="1268430792"><![CDATA[<title>Display Non-Scoring Tab</title><info>When non-scoring games are enabled and setting is set to true, a search tab for non-scoring game on the arcade index page is added.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="non_scoring" added="1268430922"><![CDATA[&#187; Game Kh&#244;ng t&#237;nh &#273;i&#7875;m]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="scoring" added="1268430925"><![CDATA[&#187; Game T&#237;nh &#273;i&#7875;m]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="points" added="1268434111">Points</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="bet_opponent" added="1268435225">Bet Opponent</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="please_provide_a_numeric_value_for_your_bet" added="1268435707">Please provide a integer value for your bet.</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="you_cannot_bet_more_points_than_you_possess" added="1268436468">You cannot bet more points than you possess</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="opponent_does_not_have_enough_points" added="1268437074">Opponent does not have enough points.</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="decline" added="1268437954">Decline</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="you_cannot_decline_a_challenge_where_there_is_already_a_winner" added="1268438658">You cannot decline a challenge where there is already a winner.</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="challenge_has_been_declined" added="1268438715">Challenge has been declined.</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="setting_challenges_challenge_msg4_title" added="1268439284"><![CDATA[<title>Challenge - Notification Message - Challenge Declined - Title</title><info>If challenges are enabled and a user declines a challenge, this will be the title of the notification message sent to the receiving user. Available replacement variables: {challenger}, {game}</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="setting_challenges_challenge_msg4_content" added="1268439936"><![CDATA[<title>Challenge - Notification Message - Challenge Declined - Content</title><info>If challenges are enabled and a user declines a challenge, this will be the body of the notification message sent to the receiving user. Available replacement variables: {user}, {challenger}, {game}</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="setting_challenges_challenge_msg5_title" added="1268445513"><![CDATA[<title>Challenge - Notification Message - Initiate with Bet - Title</title><info>If challenges are enabled, bets are enabled and a user initiates a challenge, this will be the title of the notification message sent to the receiving user. Available replacement variables: {challenger}, {user}</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="setting_challenges_challenge_msg5_content" added="1268445899"><![CDATA[<title>Challenge - Notification Message - Initiate with Bet - Content</title><info>If challenges are enabled, bets are enabled and a user initiates a challenge, this will be the content of the notification message sent to the receiving user. Available replacement variables: {user}, {challenger}, {game}, {link}, {bet}</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="score_to_challenge_is_pending" added="1268464089">Score to the challenge has already been posted and is pending.</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="challenge_has_already_been_completed" added="1268464310">Challenge has already been completed.</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="challenge_cannot_be_found" added="1268464727">Challenge cannot be found</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="setting_challenges_challenge_msg6_title" added="1268489884"><![CDATA[<title>Challenge - Notification Message - Challenge Completed with Bet - Title</title><info>When the second challenged user submits his or her highscore, the challenge is complete. This is the title of the notification message that the opposing member will receive when there is a bet. Available replacement variables: {user}, {game}, {challengePage}, and {bet}</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="setting_challenges_challenge_msg6_content" added="1268490546"><![CDATA[<title>Challenge - Notification Message - Challenge Completed with Bet - Content</title><info>When the second challenged user submits his or her highscore, the challenge is complete. This is the title of the notification message that the opposing member will receive when there is a bet. Available replacement variables: {user}, {game}, {challengePage}, {bet}</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="updatefeed_prompt3" added="1268491707"><![CDATA[<a href="{winnerUrl}">{winnerName}</a> won a bet of {bet} over <a href="{loserUrl}">{loserName}</a> in a challenge with a score of {score} for <a href="{gameUrl}">{game}</a>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="there_are_no_games_to_be_found" added="1268499836">There are no games to be found.</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="setting_miniclip_on" added="1268536995"><![CDATA[<title>Enable Miniclip Games</title><info>Allows the games added from Miniclip to be shown on the public side of the arcade.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="you_have_x_activity_points" added="1268536999">You have {x} activity points.</phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="my_arcade_game" added="1268537000"><![CDATA[Game c&#7911;a t&#244;i]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.3" var_name="admin_menu_removegames" added="1268537001">Remove Games</phrase>
+	<phrase module_id="arcade" version_id="2.0.4" var_name="you_have_been_challenged_by_user_to_battle_at_game" added="1270124829">You have been challenged by {user_full_name} to battle at {game_title}</phrase>
+	<phrase module_id="arcade" version_id="2.0.4" var_name="suggest_a_game" added="1270136035"><![CDATA[&#272;&#7873; xu&#7845;t th&#234;m game]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.4" var_name="game_could_not_be_suggested_game_you_are_suggesting_must_be_a_game_from_mochimedia" added="1270136970">Game could not be suggested. Suggested games must be games from www.mochimedia.com</phrase>
+	<phrase module_id="arcade" version_id="2.0.4" var_name="game_could_not_be_suggested_please_provide_a_valid_url" added="1270137041">Game could not be suggested. Please provide a valid url.</phrase>
+	<phrase module_id="arcade" version_id="2.0.4" var_name="link_to_game" added="1270137178"><![CDATA[Li&#234;n k&#7871;t &#273;&#7871;n Game]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.4" var_name="suggest" added="1270137204"><![CDATA[G&#7917;i &#272;&#7873; xu&#7845;t]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.4" var_name="game_has_been_suggested" added="1270138200">Game has been suggested.</phrase>
+	<phrase module_id="arcade" version_id="2.0.4" var_name="admin_menu_game_suggestions" added="1270139552">Game Suggestions</phrase>
+	<phrase module_id="arcade" version_id="2.0.4" var_name="tournaments" added="1270146986"><![CDATA[C&#225;c gi&#7843;i &#273;&#7845;u]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.4" var_name="menu_tournament_tournament_dc977bed7c71c686eb5165dfd6e9709b" added="1270066314"><![CDATA[C&#225;c gi&#7843;i &#273;&#7845;u]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.4" var_name="there_are_no_high_scores_previously_posted_for_this_game" added="1270757741">There are no high scores previously posted for this game.</phrase>
+	<phrase module_id="arcade" version_id="2.0.4" var_name="you_have_posted_a_score_of_score_for_this_game" added="1270757886">You have posted a score of {score} for this game.</phrase>
+	<phrase module_id="arcade" version_id="2.0.4" var_name="setting_mochi_show_highscores_block" added="1270759681"><![CDATA[<title>Show High Scores Block in Thickbox for Mochi Games</title><info>When enabled, displays the high scores in a thickbox on completion of a game play on the game page.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.4" var_name="footer_link" added="1270759689"><![CDATA[Arcade Powered by <a href="http://www.konsort.org/">Konsort.org phpFox Arcade</a>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.5" var_name="setting_default_category" added="1281364009"><![CDATA[<title>Default Arcade Category</title><info>For the Tabular Menu, the selected value will be the default category.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.5" var_name="recent" added="1281364267">Recent</phrase>
+	<phrase module_id="arcade" version_id="2.0.5" var_name="popular" added="1281364285"><![CDATA[&#187; Game Nhi&#7873;u ng&#432;&#7901;i ch&#417;i]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.5" var_name="top_games" added="1281364307"><![CDATA[&#187; Top Games]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.5" var_name="bracket" added="1281385345">Bracket</phrase>
+	<phrase module_id="arcade" version_id="2.0.5" var_name="setting_max_points_allowed" added="1281449499"><![CDATA[<title>Max Activity Points Allowed per Day</title><info>Maximum activity a user can gain per 24 hours. If set to zero, the limit is disabled.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.5" var_name="arcadenews_prompt1b" added="1281458969">{num}. {winner} beat his own highscore with a score of {score} for {game} at {date}</phrase>
+	<phrase module_id="arcade" version_id="2.0.5" var_name="arcadenews_prompt1c" added="1281458993">{num}. {winner} beat her own highscore with a score of {score} for {game} at {date}</phrase>
+	<phrase module_id="arcade" version_id="2.0.5" var_name="arcadenews_prompt1d" added="1281459021">{num}. {winner} beat his or her highscore with a score of {score} for {game} at {date}</phrase>
+	<phrase module_id="arcade" version_id="2.0.5" var_name="setting_feed_game_comments" added="1281460358"><![CDATA[<title>Display Game Comments on Feed</title><info>When enabled, game comments will be displayed on the  updates feed.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.5" var_name="user_name_added_a_new_comment_to_game" added="1281460626"><![CDATA[<a href="{user_link}">{user_name}</a> added a new comment to <a href="{title_link}">arcade game</a>.]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.5" var_name="random" added="1281460667"><![CDATA[&#187; Game ng&#7851;u nhi&#234;n]]></phrase>
+	<phrase module_id="arcade" version_id="2.0.5" var_name="admin_menu_debug" added="1281460668">Debug</phrase>
+	<phrase module_id="arcade" version_id="3.0.0rc3" var_name="poor" added="1323281609">Poor</phrase>
+	<phrase module_id="arcade" version_id="3.0.0rc3" var_name="nothing_special" added="1323281625">Nothing Special</phrase>
+	<phrase module_id="arcade" version_id="3.0.0rc3" var_name="worth_playing" added="1323281645">Worth Playing</phrase>
+	<phrase module_id="arcade" version_id="3.0.0rc3" var_name="pretty_cool" added="1323281664">Pretty Cool</phrase>
+	<phrase module_id="arcade" version_id="3.0.0rc3" var_name="awesome" added="1323281678">Awesome</phrase>
+	<phrase module_id="arcade" version_id="3.0.0rc3" var_name="total_rating_ratings" added="1323281716">{total_rating} Ratings</phrase>
+	<phrase module_id="arcade" version_id="3.0.0rc3" var_name="you_have_already_voted" added="1323281820">You have already voted</phrase>
+	<phrase module_id="arcade" version_id="3.0.0rc3" var_name="has_just_posted_a_new_high_score_of_score_for_a_href_game_link_game_title_a" added="1324497573"><![CDATA[has just posted a new high score of {score} for <a href="{game_link}">{game_title}</a>]]></phrase>
+	<phrase module_id="arcade" version_id="3.0.0rc3" var_name="beat_his_own_high_score_with_a_score_of_score_for_a_href_game_link_game_title_a" added="1324499677"><![CDATA[beat his own high score with a score of {score} for <a href="{game_link}">{game_title}</a>]]></phrase>
+	<phrase module_id="arcade" version_id="3.0.0rc3" var_name="beat_her_own_high_score_with_a_score_of_score_for_a_href_game_link_game_title_a" added="1324499710"><![CDATA[beat her own high score with a score of {score} for <a href="{game_link}">{game_title}</a>]]></phrase>
+	<phrase module_id="arcade" version_id="3.0.0rc3" var_name="beat_his_or_her_own_highscore_with_a_score_of_score_for_a_href_game_link_game_title_a" added="1324500077"><![CDATA[beat his or her own highscore with a score of {score} for <a href="{game_link}">{game_title}</a>]]></phrase>
+	<phrase module_id="arcade" version_id="3.0.0rc3" var_name="beat_a_href_loser_link_loser_name_a_s_high_score_with_a_score_of_score_for_a_href_game_link_game_title_a" added="1324512297"><![CDATA[beat <a href="{loser_link}">{loser_name}</a>'s high score with a score of {score} for <a href="{game_link}">{game_title}</a>]]></phrase>
+	<phrase module_id="arcade" version_id="3.0.0rc3" var_name="beat_a_href_loser_link_loser_name_a_in_a_challenge_with_a_score_of_score_for_a_href_game_link_game_title_a" added="1324535885"><![CDATA[beat <a href="{loser_link}">{loser_name}</a> in a challenge with a score of {score} for <a href="{game_link}">{game_title}</a>]]></phrase>
+	<phrase module_id="arcade" version_id="3.0.0rc3" var_name="won_a_bet_of_bet_over_a_href_loser_link_loser_name_a_in_a_challenge_with_a_score_of_score_for_a_href_game_link_game_title_a" added="1324535965"><![CDATA[won a bet of {bet} over <a href="{loser_link}">{loser_name}</a> in a challenge with a score of {score} for <a href="{game_link}">{game_title}</a>]]></phrase>
+	<phrase module_id="arcade" version_id="3.0.0rc3" var_name="you_have_lost_the_challenge_with_user_full_name_for_the_game_game_title" added="1324536948">You have lost the challenge with {user_full_name} for the game {game_title}</phrase>
+	<phrase module_id="arcade" version_id="3.0.0rc3" var_name="you_have_won_the_challenge_with_user_full_name_for_the_game_game_title" added="1324536994">You have won the challenge with {user_full_name} for the game {game_title}</phrase>
+	<phrase module_id="arcade" version_id="3.0.0rc3" var_name="user_full_name_has_submitted_a_score_of_score_for_your_arcade_duel_at_game_title" added="1324587964">{user_full_name} has submitted a score of {score} for your arcade duel at {game_title}</phrase>
+	<phrase module_id="arcade" version_id="3.0.1" var_name="setting_enable_miniclip_dcr" added="1331909852"><![CDATA[<title>Enable Miniclip Shockwave</title><info>Set this to True to enable adding Miniclip Shockwave (DCR Files) based games.  Users will need the Adobe Shockwave Player plugin installed to play these.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="3.0.1" var_name="setting_enable_miniclip_iframe" added="1331911111"><![CDATA[<title>Enable Miniclip IFrame</title><info>Set this to True to enable adding Miniclip IFrame games. These games should work in the same way regular Miniclip Flash based games do. Instead of providing a SWF Flash file, Miniclip provides the embed code for an IFrame.</info>]]></phrase>
+	<phrase module_id="arcade" version_id="3.0.1" var_name="embed_code" added="1331916468">Embed Code</phrase>
+	<phrase module_id="arcade" version_id="3.0.1" var_name="embed_code_and_info" added="1331916571">Embed Code and Info</phrase>
+	<phrase module_id="arcade" version_id="3.0.1" var_name="total" added="1331916612">Total</phrase>
+	<phrase module_id="arcade" version_id="3.0.1" var_name="available" added="1331916645">Available</phrase>
+	<phrase module_id="arcade" version_id="3.0.1" var_name="height" added="1331916968">Height</phrase>
+	<phrase module_id="arcade" version_id="3.0.1" var_name="width" added="1331916986">Width</phrase>
+	<phrase module_id="arcade" version_id="3.0.1" var_name="manual" added="1331917350">Manually Specified (Custom Embed Code) Games</phrase>
+	<phrase module_id="arcade" version_id="3.0.1" var_name="add_manual_game_specify_embed_code" added="1331917434">Add Manual Game (Specify Embed Code)</phrase>
+	<phrase module_id="arcade" version_id="3.0.1" var_name="provide_a_width_for_the_game" added="1331917940">Provide a width for the game</phrase>
+	<phrase module_id="arcade" version_id="3.0.1" var_name="provide_a_height_for_the_game" added="1331917975">Provide a height for the game</phrase>
+	<phrase module_id="arcade" version_id="3.0.1" var_name="setting_enable_manual_games" added="1331924821"><![CDATA[<title>Enable Manual Games</title><info>Set this to true to enable manually added games</info>]]></phrase>
+	<phrase module_id="arcade" version_id="3.0.1" var_name="current_embed_code" added="1332169203">Current Embed Code</phrase>
+	<phrase module_id="arcade" version_id="3.0.1" var_name="setting_come2play_channel_id" added="1332276118"><![CDATA[<title>Come2Play Channel ID</title><info>Set this to your Come2Play Channel ID</info>]]></phrase>
+	<phrase module_id="arcade" version_id="3.0.1" var_name="setting_come2play_channel_key" added="1332434856"><![CDATA[<title>Come2Play Channel Key</title><info>Set this to your Come2Play Channel Key, found in the Dashboard->Channel Edit->Advanced->SSO section of come2play.com</info>]]></phrase>
+	<phrase module_id="arcade" version_id="3.1.0" var_name="setting_max_swf_file_size" added="1334694185"><![CDATA[<title>Max SWF File Size</title><info>Prevents SWF Files larger than this value, in MB, from being downloaded when importing physical files from MochiMedia</info>]]></phrase>
+	<phrase module_id="arcade" version_id="3.1.0" var_name="addgames_file_size" added="1334696056">File Size</phrase>
+</phrases>

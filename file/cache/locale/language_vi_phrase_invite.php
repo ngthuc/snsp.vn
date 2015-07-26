@@ -1,0 +1,57 @@
+<?php defined('PHPFOX') or exit('NO DICE!'); ?>
+<?php $aContent = array (
+  'all' => 'T&#7845;t c&#7843;',
+  'already_invited' => 'Already invited',
+  'delete' => 'X&#243;a',
+  'email_your_friends' => 'Email b&#7841;n th&#226;n',
+  'find_friends' => 'T&#236;m b&#7841;n',
+  'from' => 'T&#7915;',
+  'full_name_invites_you_to_site_title' => '{full_name} m&#7901;i b&#7841;n gh&#233; th&#259;m {site_title}',
+  'full_name_invites_you_to_site_title_link' => '{full_name} m&#7901;i b&#7841;n gh&#233; th&#259;m {site_title}.
+
+&#272;&#7875; ki&#7875;m tra th&#432; m&#7901;i, vui l&#242;ng click v&#224;o li&#234;n k&#7871;t ph&#237;a d&#432;&#7899;i:
+
+<a href="{link}">{link}</a>',
+  'full_name_invites_you_to_title' => '{full_name} m&#7901;i b&#7841;n gh&#233; th&#259;m {title}',
+  'invitation_deleted' => '&#272;&#227; x&#243;a th&#432; m&#7901;i.',
+  'invitation_not_found' => 'Kh&#244;ng th&#7875; t&#236;m th&#7845;y th&#432; m&#7901;i.',
+  'invites' => 'M&#7901;i',
+  'invite_s_were_not_sent_due_to_that_the_email_s' => 'Invite(s) were not sent due to that the email(s) were invalid or you have already sent an invitation to the email(s).',
+  'invite_your_friends' => 'M&#7901;i B&#7841;n',
+  'invite_your_friends_to_b_title_b' => 'M&#7901;i b&#7841;n b&#232; gh&#233; th&#259;m v&#224; gia nh&#7853;p <b>{title}</b>',
+  'menu_invite' => 'M&#7901;i b&#7841;n',
+  'menu_invite_friends' => 'G&#7917;i th&#432; m&#7901;i',
+  'menu_pending_invitations' => 'Th&#432; m&#7901;i ch&#432;a ph&#7843;n h&#7891;i',
+  'moderation' => 'Moderation',
+  'module_invite' => 'Invite',
+  'none' => 'Kh&#244;ng c&#243;',
+  'not_a_valid_email' => 'Email kh&#244;ng h&#7907;p l&#7879;',
+  'pending_invitations' => 'Th&#432; m&#7901;i ch&#432;a ph&#7843;n h&#7891;i',
+  'search' => 'T&#236;m ki&#7871;m',
+  'search_by_name_or_email' => 'T&#236;m theo t&#234;n ho&#7863;c email.',
+  'select' => 'Ch&#7885;n',
+  'send_a_custom_invitation_link' => 'G&#7917;i li&#234;n k&#7871;t m&#7901;i t&#249;y ch&#7881;nh',
+  'send_friends_your_custom_invitation_link_by_copy_and_pasting_it_into_your_own_email_application' => 'N&#7871;u b&#7841;n mu&#7889;n g&#7917;i th&#432; m&#7901;i b&#7841;n b&#232; b&#7857;ng t&#224;i kho&#7843;n Email c&#7911;a ri&#234;ng b&#7841;n, h&#227;y copy v&#224; d&#225;n li&#234;n k&#7871;t sau v&#224;o th&#432; m&#7901;i',
+  'send_invitation_s' => 'G&#7917;i th&#432; m&#7901;i',
+  'separate_multiple_emails_with_a_comma' => 'Nhi&#7873;u email &#273;&#432;&#7907;c ph&#226;n c&#225;ch b&#7903;i d&#7845;u ph&#7849;y.',
+  'setting_check_duplicate_invites' => '<title>Check Duplicate Invites</title><info>Do you want the site to check for duplicate invites before sending mail invites?
+This can avoid spamming (userA, userB and userC know personA, they all 3 send an invite so personA receives 3 emails) but can also slow down a little the process</info>',
+  'setting_invite_expire' => '<title>Expire invites timeout</title><info>How many days is an invite valid for?
+
+Note: this relies on cookies.</info>',
+  'setting_make_friends_on_invitee_registration' => '<title>Make invited users friends with their host</title><info>When a user invites aPerson and aPerson becomes a member, should they be made friends right then?</info>',
+  'setting_pendings_to_show_per_page' => '<title>How Many Pendings To Show</title><info>This tells how many pending invites to show per page.</info>',
+  'skip_this_step' => 'B&#7887; qua b&#432;&#7899;c n&#224;y',
+  'subject' => 'Ch&#7911; &#273;&#7873;',
+  'successfully_removed_invites' => 'Successfully removed invites.',
+  'there_are_no_pending_invitations' => 'Kh&#244;ng c&#243; l&#7901;i m&#7901;i ch&#432;a ph&#7843;n h&#7891;i.',
+  'the_following_emails_were_not_sent' => 'Email d&#432;&#7899;i &#273;&#226;y ch&#432;a &#273;&#432;&#7907;c g&#7917;i',
+  'this_email_is_already_registered_within_our_community' => 'This email is already registered within our community.',
+  'to' => '&#272;&#7871;n',
+  'unable_to_find_your_invitation' => 'Unable to find your invitation.',
+  'user_setting_points_invite' => 'How many points the invitee and the inviter will receive upon a successfully request.',
+  'your_friends_have_successfully_been_invited' => '&#272;&#227; th&#224;nh c&#244;ng khi m&#7901;i b&#7841;n th&#226;n.',
+  'your_friend_will_automatically_be_added_to_your_friends_list_when_they_join' => 'Ng&#432;&#7901;i b&#7841;n g&#7917;i th&#432; m&#7901;i s&#7869; &#273;&#432;&#7907;c t&#7921; &#273;&#7897;ng c&#7853;p nh&#7853;t v&#224;o danh s&#225;ch b&#7841;n b&#232; c&#7911;a b&#7841;n khi h&#7885; &#273;&#259;ng k&#253; th&#224;nh vi&#234;n !',
+  'you_have_already_invited' => 'B&#7841;n &#273;&#227; m&#7901;i',
+  'you_have_successfully_sent_an_invitation_to' => 'B&#7841;n &#273;&#227; g&#7917;i th&#224;nh c&#244;ng th&#432; m&#7901;i &#273;&#7871;n',
+); ?>

@@ -1,0 +1,10 @@
+<theme>
+	<name>Bookbulk</name>
+	<folder>bookbulk</folder>
+	<created>1397414276</created>
+	<creator>Hossein Hatami</creator>
+	<website>persianphpfox.ir</website>
+	<version>3.7.6</version>
+	<total_column>2</total_column>
+    <parent>default</parent>
+</theme>

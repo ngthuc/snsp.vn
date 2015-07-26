@@ -1,0 +1,41 @@
+<product>
+	<data>
+		<product_id>bootstraptheme</product_id>
+		<is_core>0</is_core>
+		<title>Bootstraptheme</title>
+		<description>Bootstraptheme</description>
+		<version>3.6.0</version>
+		<latest_version></latest_version>
+		<last_check>0</last_check>
+		<is_active>1</is_active>
+		<url>http://phpfoxexpert.com/</url>
+		<url_version_check>http://phpfoxexpert.com/</url_version_check>
+	</data>
+	<installs>
+		<install>
+			<version>3.6.0</version>
+			<install_code><![CDATA[$oDb = Phpfox::getLib('phpfox.database');
+$oDb -> query("CREATE TABLE IF NOT EXISTS `".Phpfox::getT('bootstraptheme_slides')."` (
+  `slide_id` int(10) NOT NULL AUTO_INCREMENT,
+  `slide_title` varchar(255) DEFAULT NULL,
+  `slide_description` varchar(255) DEFAULT NULL,
+  `slide_url` varchar(255) DEFAULT NULL,
+  `slide_position` varchar(5) DEFAULT 'left',
+  `button_label` varchar(50) DEFAULT NULL,
+  `button_color` varchar(50) DEFAULT '#ffffff',
+  `button_text_color` varchar(50) DEFAULT '#000000',
+  `button_link` varchar(255) DEFAULT '#',
+  `ordering` mediumint(8) DEFAULT '0',
+  `is_active` tinyint(1) DEFAULT '1',
+  PRIMARY KEY (`slide_id`));");
+$oDb -> query("INSERT INTO `".Phpfox::getT('bootstraptheme_slides')."` (`slide_id`, `slide_title`, `slide_description`, `slide_url`, `slide_position`, `button_label`, `button_color`, `button_text_color`, `button_link`, `ordering`, `is_active`) VALUES
+	(1, 'IS YOUR COMPANY, PRODUCT OR  SERVICE READY TO BLASTOFF?', 'When your business is ready for takeoff then promote it with  reDesign, an amazing new multi-purpose template built on the rocket-fueled Twitter Bootstrap framework.', '1.png', 'right', 'Launch', '#ffffff', '#000000', '#', 1, 1),
+	(2, 'IS YOUR COMPANY, PRODUCT OR  SERVICE READY TO BLASTOFF?', 'When your business is ready for takeoff then promote it with  reDesign, an amazing new multi-purpose template built on the rocket-fueled Twitter Bootstrap framework.', '2.png', 'left', 'Launch', '#ffffff', '#000000', '#', 2, 1);");]]></install_code>
+			<uninstall_code><![CDATA[$oDb = Phpfox::getLib('phpfox.database');
+$oDb -> query("DROP TABLE `".Phpfox::getT('bootstraptheme_slides')."`;");]]></uninstall_code>
+		</install>
+	</installs>
+	<modules>
+		<module_id>bootstraptheme</module_id>
+	</modules>
+</product>

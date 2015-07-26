@@ -1,0 +1,141 @@
+<module>
+	<data>
+		<module_id>backuprestore</module_id>
+		<product_id>Backup and Restore</product_id>
+		<is_core>0</is_core>
+		<is_active>1</is_active>
+		<is_menu>1</is_menu>
+		<menu><![CDATA[a:7:{s:44:"backuprestore.admin_menu_backup_destinations";a:1:{s:3:"url";a:2:{i:0;s:13:"backuprestore";i:1;s:11:"destination";}}s:46:"backuprestore.admin_menu_google_drive_settings";a:1:{s:3:"url";a:2:{i:0;s:13:"backuprestore";i:1;s:10:"gdrivesett";}}s:40:"backuprestore.admin_menu_backup_settings";a:1:{s:3:"url";a:2:{i:0;s:13:"backuprestore";i:1;s:7:"setting";}}s:45:"backuprestore.admin_menu_google_drive_suppurt";a:1:{s:3:"url";a:2:{i:0;s:13:"backuprestore";i:1;s:10:"gdrivesupp";}}s:36:"backuprestore.admin_menu_take_backup";a:1:{s:3:"url";a:2:{i:0;s:13:"backuprestore";i:1;s:6:"backup";}}s:41:"backuprestore.admin_menu_database_restore";a:1:{s:3:"url";a:2:{i:0;s:13:"backuprestore";i:1;s:15:"databaserestore";}}s:32:"backuprestore.admin_menu_history";a:1:{s:3:"url";a:2:{i:0;s:13:"backuprestore";i:1;s:7:"history";}}}]]></menu>
+		<phrase_var_name>module_backuprestore</phrase_var_name>
+	</data>
+	<settings>
+		<setting group="" module_id="backuprestore" is_hidden="0" type="integer" var_name="default_start_minute" phrase_var_name="setting_default_start_minute" ordering="1" version_id="3.4.1">00</setting>
+		<setting group="" module_id="backuprestore" is_hidden="0" type="integer" var_name="default_start_hour" phrase_var_name="setting_default_start_hour" ordering="1" version_id="3.4.1">12</setting>
+		<setting group="" module_id="backuprestore" is_hidden="0" type="string" var_name="schedule_hour_min_format" phrase_var_name="setting_schedule_hour_min_format" ordering="1" version_id="3.4.1">g:i a</setting>
+		<setting group="" module_id="backuprestore" is_hidden="0" type="string" var_name="tme_stamp" phrase_var_name="setting_tme_stamp" ordering="1" version_id="3.4.1">l, F j</setting>
+		<setting group="" module_id="backuprestore" is_hidden="0" type="string" var_name="backup_dir" phrase_var_name="setting_backup_dir" ordering="1" version_id="3.4.1">file/cloudbackup/</setting>
+		<setting group="" module_id="backuprestore" is_hidden="0" type="string" var_name="gdrive_app_folder" phrase_var_name="setting_gdrive_app_folder" ordering="1" version_id="3.4.1">PhpFox Backup</setting>
+	</settings>
+	<crons>
+		<cron module_id="backuprestore" type_id="3" every="7"><![CDATA[Phpfox::getService('backuprestore.process')->backupCron();]]></cron>
+	</crons>
+	<phrases>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="module_backuptodropbox" added="1365569621">Backup Phpfox into cloud services</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="setting_backup_dir" added="1366785023"><![CDATA[<title>Location of backup files</title><info>This variable stores location of cloud backup files.</info>]]></phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="included_files_and_folders_saved" added="1366867007">Included Files and Folders Saved!</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="setting_tme_stamp" added="1367298369"><![CDATA[<title>History Time Stamp</title><info>This time stamp used to view next backup schedule format</info>]]></phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="today" added="1367298446">Today</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="tomorrow" added="1367298488">Tomorrow</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="setting_schedule_hour_min_format" added="1367473863"><![CDATA[<title>Backup to Cloud hour & minute format</title><info>This is the short version of the time stamp that is used when viewing scheduled time hour and minute</info>]]></phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="not_exist_file" added="1367569796">Connot find file to to upload. Make sure that file exists.</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="no_history" added="1367581688">No history</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="admin_menu_manage_dropbox_settings" added="1367814750">Manage Cloud Settings</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="success" added="1367816613">Backup into dropbox successfully finished</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="authorize_exception" added="1367923292">There was a fatal error to connect BackuptoCloud with your Dropbox Account. Please fix this problem to authorize to your account again. The problem is listed above.</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="thank_you_for_installing_phpfox_backup_into_dropbox" added="1368523757">Thank you for installing PhpFox Backup Into Cloud!!</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="product_use_desc" added="1368523845">In order to use this plugin you will need to authorized it with your Dropbox account.
+///////
+////////
+///////
+/////////
+///////
+////////
+///////
+/////////Please click the authorize button below and follow the instructions inside the pop up window.</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="authorize_error" added="1368523919">There was an error authorizing the plugin with your Dropbox account. Please try again.</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="continue" added="1368523956">Continue</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="authorize" added="1368523999">Authorize</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="dropbox_account_details" added="1368524088">Dropbox Account Details!!</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="you_have" added="1368524123">you have</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="of" added="1368524164">of</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="free_space" added="1368524192">free space!</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="unlink_acount" added="1368524227">Unlink Dopbox Account</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="included_files_and_directories" added="1368524258">Included Files and Directories</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="file_tree_info" added="1368524322">Select the files and directories that you wish to include to your backup. You can expand directories with contents by clicking its name.</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="all" added="1368524375">All</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="none" added="1368524398">None</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="inverse" added="1368524423">Inverse</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="start_backup" added="1368524452">Start backup</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="backup_completed_on" added="1368524488">Backup completed on</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="at" added="1368524517">at</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="clear_history" added="1368524547">Clear History</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="next_scheduled" added="1368524581">Next Scheduled</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="next_backup_scheduled_for" added="1368524614">Next backup scheduled for</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="settings" added="1368524677">Settings</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="store_backup_in_a_subfolder" added="1368524719">Store backup in a subfolder</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="save_changes" added="1368524789">Save Changes</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="setting_default_start_hour" added="1368526126"><![CDATA[<title>Default Backup Start hour</title><info>This value defines default start time of backup in 24 hour. Now its set to 12 am</info>]]></phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="setting_default_start_minute" added="1368526318"><![CDATA[<title>Default Backup Start minute</title><info>This value defines default start minute of backup in 60 minute. Now its set to 00</info>]]></phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="google_drive_account_details" added="1369128501">Google Drive Account Details!!</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="file_not_exist" added="1369135506">No file found to upload.</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="location" added="1369135783">location</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="upload_process_successfully_completed" added="1369206021">Google Drive upload process successfully completed</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="please_insert_your_application_client_id" added="1369224980">Please insert your Google Drive Client ID</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="please_insert_your_application_client_secret_key" added="1369225123">Please insert your Google Drive Client Secret</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="changes_successfully_saved" added="1369304990">Changes successfully saved..</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="gdrive_fill_keys" added="1369306310">To use Google drive Service you must first fill below requirements and Authorize Plugin to your Google Account.</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="gd_auth_deny" added="1369379033">You have not registered your plugin to Google Drive.</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="gd_register_complete" added="1369379239">Google Drive Application Registration completed....</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="admin_menu_google_drive_settings" added="1369636901">Google Drive Settings</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="google_drive_error_when_requesting_access_token" added="1369720186">Google Drive error when requesting access token</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="access_token_not_exist" added="1369720276">Google Drive error when requesting access token: response does not contain access_token</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="changes_updated_successfully" added="1369722531">Changes updated successfully..</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="gdrive_authorize_message" added="1369728726"><![CDATA[You have&#039;not authorized this Plugin to your Google drive Account yet. Please authorize Plugin to use Google Drive!!]]></phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="cloud_settings" added="1369734329">Cloud Settings</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="google_drive" added="1369734555">Google Drive Settings</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="service_select_message" added="1369808489">To Save your backup in Remote Storage you must first select at least one of below services</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="dropbox" added="1369812374">Dropbox</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="backup_process_complated" added="1369812988">Backup process completed!!!</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="unlink_google_accont" added="1369821126">Unlink Google Accont</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="google_drive_settings_edit" added="1369895274">Google Drive Settings Edit</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="api_console_descp" added="1369895375">Follow this link to your Google API Console, and there create a Client ID in the API Access section.</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="google_drive_support" added="1369896073">Google Drive FAQ</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="admin_menu_google_drive_support" added="1369906934">Google Drive FAQ</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="setting_gdrive_app_folder" added="1369979031"><![CDATA[<title>Google Drive Folder</title><info>This value tell folder name to store backup files in Google Drive.</info>]]></phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="of_the_apps_folder_in_dropbox" added="1369985255">of the Apps folder in Dropbox</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="phpfox_backup_into_cloud" added="1369986535">PhpFox Backup Into Cloud</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="configuring_google_drive_api_access_in_phpfox" added="1369991565">Configuring Google Drive API access in PhpFox</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="google_drive_client_id" added="1369991690">Google Drive Client ID:</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="google_drive_client_secret" added="1369991729">Google Drive Client Secret:</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="google_drive_redirect_uris" added="1369991783">Google Drive Redirect URIs:</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="for_longer_help_including_screenshots_follow_this_link" added="1369991821">For longer help, including screenshots, follow this link</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="gdrive_keys_use_descp" added="1369991911">If you install plugin on several PhpFox sites, then you cannot re-use your client ID; you must create a new one from your Google API console for each site.</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="gdrive_keys_redirect_descp" added="1369992005"><![CDATA[You must add the following as the authorised redirect URI (near "Redirect URIs") when asked:]]></phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="select_web_application_as_the_application_type" added="1369992047"><![CDATA[Select &#039;Web Application&#039;  as the application type.]]></phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="module_backuprestore" added="1370261211">Buckup PhpFox files/databases and Restore</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="admin_menu_backup_destinations" added="1370321443">Backup Gateways</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="backup_destination" added="1370321791">Backup Gateways</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="path_not_exist" added="1370350228"><![CDATA[The path you entered does not exist or does not corresponds to absolute path. Please enter full path from site&#039;s root folder.]]></phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="invalid_email_address" added="1370409060">Invalid Email Address</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="full_name_send_you_message_title" added="1370427610">{full_name} send you message {title}</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="cannot_copy_file" added="1370589504">Cannot copy file..</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="backup_settings" added="1370603808">Global Settings</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="admin_menu_backup_settings" added="1370604244">Global Settings</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="admin_menu_google_drive_suppurt" added="1370840204">Google Drive FAQ</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="take_backup_content" added="1370946303">Take Backup Content</phrase>
+		<phrase module_id="backuprestore" version_id="3.4.1" var_name="admin_menu_take_backup" added="1371010605">Take Backup</phrase>
+		<phrase module_id="backuprestore" version_id="3.5.0" var_name="admin_menu_database_restore" added="1371188032">Database Restore</phrase>
+		<phrase module_id="backuprestore" version_id="3.5.0" var_name="admin_menu_history" added="1371722534">History</phrase>
+		<phrase module_id="backuprestore" version_id="3.5.0" var_name="backuptype" added="1371727266">Type</phrase>
+		<phrase module_id="backuprestore" version_id="3.5.0" var_name="backupage" added="1371727298">Age</phrase>
+		<phrase module_id="backuprestore" version_id="3.5.0" var_name="backupfilesize" added="1371727735">Filesize</phrase>
+		<phrase module_id="backuprestore" version_id="3.5.0" var_name="backupoptions" added="1371727804">Options</phrase>
+		<phrase module_id="backuprestore" version_id="3.5.0" var_name="databaserestore" added="1371727863">Database restore</phrase>
+		<phrase module_id="backuprestore" version_id="3.5.0" var_name="backupdelete" added="1371727899">Delete</phrase>
+		<phrase module_id="backuprestore" version_id="3.5.0" var_name="backupdownload" added="1371727939">Download</phrase>
+		<phrase module_id="backuprestore" version_id="3.5.0" var_name="backupid" added="1371727991">ID</phrase>
+		<phrase module_id="backuprestore" version_id="3.5.0" var_name="cancel" added="1372048219">Cancel</phrase>
+		<phrase module_id="backuprestore" version_id="3.6.0rc1" var_name="database_was_successfully_uploaded" added="1373612342">Database was successfully uploaded.</phrase>
+		<phrase module_id="backuprestore" version_id="3.6.0rc1" var_name="error_loading_database" added="1373612607">Error loading database</phrase>
+		<phrase module_id="backuprestore" version_id="3.6.0rc1" var_name="remote_storage_gateways" added="1373624119">Remote Storage Gateways</phrase>
+		<phrase module_id="backuprestore" version_id="3.6.0rc1" var_name="history" added="1373624640">History</phrase>
+		<phrase module_id="backuprestore" version_id="3.6.0rc1" var_name="site_global_settings" added="1373624780">Site Global Settings</phrase>
+		<phrase module_id="backuprestore" version_id="3.6.0rc1" var_name="backup_settings_empty" added="1373626699">In order to make backup, first make the settings here</phrase>
+		<phrase module_id="backuprestore" version_id="3.6.0rc1" var_name="google_drive_auth_failed" added="1373628308">You are not logged into Google Drive</phrase>
+		<phrase module_id="backuprestore" version_id="3.6.0rc1" var_name="dropbox_auth_failed" added="1373628354">You are not logged into Dropbox</phrase>
+		<phrase module_id="backuprestore" version_id="3.6.0rc1" var_name="to_login_go_to" added="1373628528">Go to</phrase>
+		<phrase module_id="backuprestore" version_id="3.6.0rc1" var_name="for_backup_you_must_choose_at_least_one_service" added="1373632420">For backup you must choose at least one service</phrase>
+		<phrase module_id="backuprestore" version_id="3.6.0rc1" var_name="database_restore_info" added="1373709290">Here you can restore your database. important! you can upload backup generated only from our service.</phrase>
+		<phrase module_id="backuprestore" version_id="3.6.0rc1" var_name="history_info" added="1373709486"><![CDATA[Here you can find history of your backup&#039;s and manage them]]></phrase>
+	</phrases>
+</module>

@@ -1,0 +1,50 @@
+
+#file_tree {
+margin-left: 10px;
+padding: 5px 0 5px 10px;
+width: 450px;
+max-height: 230px;
+border: 1px solid #dfdfdf;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+overflow-y: scroll;
+}
+.solidblockmenu  ul{
+    float: left;
+    width: 100%;
+    overflow: hidden;
+    border-width: 1px 0;
+}
+
+.solidblockmenu  ul li{
+    display: inline;
+}
+
+.solidblockmenu  ul li a{
+    float: left;
+    padding: 5px 5px;
+    text-decoration: none;
+}
+.solidblockmenu  ul li a:hover{
+    text-decoration: underline;
+}
+
+#service_holder{
+  width:700px  
+}
+.service_block{
+/*    height:200px;*/
+    width:375px;
+    float:left;
+    margin-left: 7px;
+    margin-bottom: 10px;
+}
+.img_holder{
+    margin: 10px;
+    text-align: center;
+}
+.database_restore{
+	position: absolute;
+	z-index: 9999;
+}

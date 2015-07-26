@@ -1,0 +1,71 @@
+    #slides {
+      display:none;
+      background:url(../../../image/slide/slide_bg.png);
+      background-size: cover;
+      position: relative;
+    }
+    .slidesjs-container,.slidesjs-control{
+    	height: 400px!important;
+    }
+    .slidesjs-control{
+    	width: 980px!important;
+    	margin: auto!important;
+    }
+    .slidesjs-navigation{
+    	position: absolute;
+    	top: 50%;
+    	display: none;
+    	margin-top: -15px;
+    }
+    .slidesjs-next{
+    	right: 10px;
+    }
+    .slidesjs-previous{
+    	left: 10px;
+    }
+    .slidesjs-navigation>i{
+    	color: #fff;
+    	font-size: 30px;
+    }
+    .slidesjs-pagination{
+    	float: right;
+    }
+    .slidesjs-pagination-item{
+    	float: left;
+    	margin: 0 1px;
+    }
+    .bt_slide_image,.bt_slide_image>img{
+    	max-width: 450px;
+    	max-height: 350px;
+    }
+    .bt_slide_item {
+    	margin-top: 10px;
+    }
+    .bt_slide_content{
+    	width: 520px;
+    	height: 350px;
+    	text-align: center;
+    }
+    .bt_slide_content .bt_title{
+    	font-size: 30px;
+    	margin-top: 50px;
+    	color: #fff;
+    	font-family: raleway-bold;
+    	text-align: left;
+    }
+    .bt_slide_content .bt_description{
+    	font-size: 15px;
+    	color: #fff;
+    	font-family: raleway;
+    	line-height: 2;
+    	text-align: left;
+    	margin-bottom: 50px;
+    }
+  .bt_sliderslider_btn
+	{
+		padding: 15px ;
+		font-size: 30px;
+		border-radius: 10px;
+		font-family:raleway-extra;
+	}
+  

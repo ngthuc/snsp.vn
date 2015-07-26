@@ -1,0 +1,7 @@
+<phrases>
+	<phrase module_id="vietlike" version_id="3.7.7" var_name="module_vietlike" added="1422888025">Setting for VietLike site</phrase>
+	<phrase module_id="vietlike" version_id="3.7.7" var_name="setting_blog_limit_link_out" added="1422888121"><![CDATA[<title>Limit link out in blog page</title><info>Limit link out in blog page</info>]]></phrase>
+	<phrase module_id="vietlike" version_id="3.7.7" var_name="user_setting_limit_link_out" added="1422889779"><![CDATA[Gi&#7899;i h&#7841;n link trong b&#224;i vi&#7871;t]]></phrase>
+	<phrase module_id="vietlike" version_id="3.7.7" var_name="user_setting_limit_attach_link_out" added="1423146723"><![CDATA[gi&#7899;i h&#7841;n link attach trong b&#224;i vi&#7871;t]]></phrase>
+	<phrase module_id="vietlike" version_id="3.7.7" var_name="vietlink_limit_link_in_article" added="1423146937"><![CDATA[- B&#7841;n ch&#7881; &#273;&#432;&#7907;c ch&#232;n t&#7889;i &#273;a [  <strong>{total}</strong> ] link out trong 1 b&#224;i vi&#7871;t. S&#7889; link out trong b&#224;i vi&#7871;t hi&#7879;n t&#7841;i l&#224; [  <strong>{totals}</strong> ]; Vui l&#242;ng s&#7917;a l&#7841;i!]]></phrase>
+</phrases>

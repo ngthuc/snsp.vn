@@ -1,0 +1,10 @@
+<theme>
+	<name>Base5</name>
+	<folder>tm_base5</folder>
+	<created>1414735200</created>
+	<creator>TemplateMechanic</creator>
+	<website>http://www.templatemechanic.com</website>
+	<version>1.1</version>
+	<total_column>2</total_column>
+	<parent>default</parent>
+</theme>

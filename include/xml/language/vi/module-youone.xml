@@ -1,0 +1,25 @@
+<phrases>
+	<phrase module_id="youone" version_id="3.0.1" var_name="module_youone" added="1331023695">youone</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="last_login_members" added="1331088124">Last Login Members</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="top_members" added="1331092122">Top Members</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="new_members" added="1331092145">New Members</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="hot_topics" added="1331107699">Hot Topics</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="new_topics" added="1331107727">New Topics</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="top_blogs" added="1331113242">Top Blogs</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="new_blogs" added="1331113261">New Blogs</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="top_videos" added="1331115661">Top Videos</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="new_videos" added="1331115680">New Videos</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="write_new_entry" added="1331260078">Write New Entry</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="create_photo_album" added="1331260094">Create Photo Album</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="create_new_page" added="1331260110">Create New Page</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="create_new_video" added="1331260122">Create New Video</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="create_new_event" added="1331260134">Create New Event</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="create_new_music" added="1331260147">Create New Music</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="view_all" added="1331260223">View All</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="posted_by" added="1331260243">Posted by</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="posted" added="1331260417">Posted</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="view" added="1331260485">view</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="views" added="1331260505">views</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="sign_up" added="1331539409">Sign Up</phrase>
+	<phrase module_id="youone" version_id="3.0.1" var_name="sign_in" added="1331539729">Sign In</phrase>
+</phrases>
