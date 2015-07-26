@@ -43,7 +43,7 @@
   'edit' => 'Edit',
   'editing_page' => 'Ch&#7881;nh s&#7917;a trang',
   'edit_page' => 'Ch&#7881;nh s&#7917;a trang',
-  'events' => 'Events',
+  'events' => 'S&#7921; Ki&#7879;n',
   'founder' => 'S&#225;ng l&#7853;p',
   'friends_pages' => 'Trang c&#7911;a b&#7841;n t&#244;i',
   'full_name_commented_on_a_comment_posted_on_the_page_title' => '{full_name} commented on a comment posted on the page "{title}".',
@@ -249,7 +249,7 @@ For unlimited add "0" without quotes.',
   'who_can_post_a_comment' => 'Who can post a comment?',
   'who_can_view_browse_comments' => 'Ai c&#243; th&#7875; xem c&#225;c b&#236;nh lu&#7853;n?',
   'widgets' => 'Widgets',
-  'yes' => 'Yes',
+  'yes' => '&#272;&#7891;ng &#253;',
   'your_membership_has_been_accepted_to_join_the_page_title' => 'Your membership has been accepted to join the page "{title}".',
   'your_membership_to_the_page_link' => 'Your membership to the page "<a href="{link}">{title}</a>" has been accepted.
 To view this page follow the link below:

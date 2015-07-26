@@ -379,7 +379,7 @@ This works in a CPM basis.',
   'who_can_start_a_discussion' => 'Who can start a discussion?',
   'who_can_view_browse_discussions' => 'Who can view/browse discussions?',
   'with_selected' => 'With Selected (<span id="js_selector_count"></span>)',
-  'yes' => 'Yes',
+  'yes' => '&#272;&#7891;ng &#253;',
   'your_post_has_successfully_been_added_however_it_is_pending_an_admins_approval_before_it_can_be_displayed_publicly' => 'Your post has successfully been added, however it is pending an Admins approval before it can be displayed publicly.',
   'your_post_that_is_part_of_the_forum_thread_title_on_site_title' => 'Your post that is part of the forum thread "{thread_title}" on {site_title} has been approved. To view your post follow the link below: 
 <a href="{link}">{link}</a>',

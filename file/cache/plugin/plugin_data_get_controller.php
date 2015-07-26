@@ -1,5 +1,11 @@
 <?php defined('PHPFOX') or exit('NO DICE!'); ?>
-<?php $aContent = 'if (!empty($_POST) && isset($_POST[\'id\']) && Phpfox::isModule(\'feed\') && Phpfox::getParam(\'feed.cache_each_feed_entry\') && !PHPFOX_IS_AJAX)
+<?php $aContent = 'if(Phpfox::isMobile()){
+    $sControllerName = Phpfox::getLib(\'module\')->getFullControllerName();
+    if ($sControllerName == \'mobile.index\') {
+        Phpfox::getLib(\'session\')->set(\'redirect\', preg_replace(\'[mobile\\/]\', \'\', Phpfox::getLib(\'session\')->get(\'redirect\')));
+        define(\'PHPFOX_DONT_SAVE_PAGE\', true);
+    }
+} if (!empty($_POST) && isset($_POST[\'id\']) && Phpfox::isModule(\'feed\') && Phpfox::getParam(\'feed.cache_each_feed_entry\') && !PHPFOX_IS_AJAX)
 {
 	$oReq = Phpfox::getLib(\'request\');
 	$oDb = Phpfox::getLib(\'database\');

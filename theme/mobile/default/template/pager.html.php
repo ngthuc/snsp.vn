@@ -1,6 +1,6 @@
 <?php 
 /**
- * [NULLED BY DARKGOTH 2014]
+ * [PHPFOX_HEADER]
  * 
  * @copyright		[PHPFOX_COPYRIGHT]
  * @author			Raymond Benc

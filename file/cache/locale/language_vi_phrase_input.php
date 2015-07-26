@@ -28,6 +28,6 @@
   'what_name_do_you_want_for_this_input' => 'What name do you want for this input?',
   'what_type_of_input_do_you_want' => 'What type of input do you want?',
   'who_should_be_able_to_add_info_to_this_input' => 'Who should be able to add info to this input',
-  'yes' => 'Yes',
+  'yes' => '&#272;&#7891;ng &#253;',
   'you_want_to_see_this_input_when_adding_a_new' => 'You want to see this input when adding a new',
 ); ?>

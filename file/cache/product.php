@@ -39,6 +39,58 @@
     'url' => 'http://phpfoxexpert.com/phpfox-plugins/Backup-And-Restore',
     'url_version_check' => 'NULL',
   ),
+  'bootstraptheme' => 
+  array (
+    'product_id' => 'bootstraptheme',
+    'is_core' => '0',
+    'title' => 'Bootstraptheme',
+    'description' => 'Bootstraptheme',
+    'version' => '3.6.0',
+    'latest_version' => NULL,
+    'last_check' => '0',
+    'is_active' => '1',
+    'url' => 'http://phpfoxexpert.com/',
+    'url_version_check' => 'http://phpfoxexpert.com/',
+  ),
+  'brodev_better_mobile' => 
+  array (
+    'product_id' => 'brodev_better_mobile',
+    'is_core' => '0',
+    'title' => 'Better Mobile - Phpfox.Pro',
+    'description' => 'Mobile web done right for Phpfox by Phpfox.Pro',
+    'version' => '4.9',
+    'latest_version' => NULL,
+    'last_check' => '0',
+    'is_active' => '1',
+    'url' => 'http://www.phpfox.pro/modules/better-mobile',
+    'url_version_check' => 'http://www.phpfox.pro/modules/better-mobile/version',
+  ),
+  'brodev_themesupporter' => 
+  array (
+    'product_id' => 'brodev_themesupporter',
+    'is_core' => '0',
+    'title' => 'Theme Supporter - Phpfox.Pro',
+    'description' => 'Provide libraries, helps for Phpfox.Pro \'s themes',
+    'version' => '2.6.1',
+    'latest_version' => NULL,
+    'last_check' => '0',
+    'is_active' => '1',
+    'url' => 'http://www.phpfox.pro/themes',
+    'url_version_check' => NULL,
+  ),
+  'brodev_tools' => 
+  array (
+    'product_id' => 'brodev_tools',
+    'is_core' => '0',
+    'title' => 'Brodev Tools',
+    'description' => 'Tools for products from Brodev.com',
+    'version' => '1.5',
+    'latest_version' => NULL,
+    'last_check' => '0',
+    'is_active' => '1',
+    'url' => 'http://www.phpfox.pro',
+    'url_version_check' => NULL,
+  ),
   'flowplayer' => 
   array (
     'product_id' => 'flowplayer',

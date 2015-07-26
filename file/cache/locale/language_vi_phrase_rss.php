@@ -97,5 +97,5 @@
   'unable_to_find_the_group_you_are_planning_to_edit' => 'Unable to find the group you are planning to edit.',
   'user_has_disabled_rss_feeds' => 'User has disabled RSS feeds.',
   'viewing_rss_feed_log' => 'Viewing RSS Feed Log',
-  'yes' => 'Yes',
+  'yes' => '&#272;&#7891;ng &#253;',
 ); ?>

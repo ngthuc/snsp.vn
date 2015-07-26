@@ -1,5 +1,13 @@
 <?php defined('PHPFOX') or exit('NO DICE!'); ?>
 <?php $aContent = array (
+  'admincp.index' => 
+  array (
+    'core.site-stat' => '3',
+    'core.note' => '2',
+    'core.active-admin' => '1',
+    'core.news' => '2',
+    'core.latest-admin-login' => '1',
+  ),
   'core.index-member' => 
   array (
     'apps.menu' => '1',
@@ -13,14 +21,6 @@
     'core.welcome' => '7',
     'announcement.index' => '7',
     'tag.cloud' => '3',
-  ),
-  'admincp.index' => 
-  array (
-    'core.site-stat' => '3',
-    'core.note' => '2',
-    'core.active-admin' => '1',
-    'core.news' => '2',
-    'core.latest-admin-login' => '1',
   ),
   'profile.index' => 
   array (
@@ -270,6 +270,10 @@
   'video.view' => 
   array (
     'video.related' => '3',
+  ),
+  'themesupporter.index' => 
+  array (
+    'themesupporter.feed' => '2',
   ),
   'forum.index' => 
   array (

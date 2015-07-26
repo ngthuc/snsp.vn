@@ -1,5 +1,11 @@
 <?php defined('PHPFOX') or exit('NO DICE!'); ?>
-<?php $aContent = 'if (!empty($_POST) && Phpfox::isModule(\'feed\') && Phpfox::getParam(\'feed.cache_each_feed_entry\') && PHPFOX_IS_AJAX)
+<?php $aContent = '/**
+ * Created by JetBrains PhpStorm.
+ * User: ADMIN
+ * Date: 11/30/12
+ * Time: 11:38 AM
+ * To change this template use File | Settings | File Templates.
+ */ if (!empty($_POST) && Phpfox::isModule(\'feed\') && Phpfox::getParam(\'feed.cache_each_feed_entry\') && PHPFOX_IS_AJAX)
 {
 	$oReq = Phpfox::getLib(\'request\');
 	$oDb = Phpfox::getLib(\'database\');

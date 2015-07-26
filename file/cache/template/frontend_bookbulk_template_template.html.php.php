@@ -1,5 +1,5 @@
 <?php defined('PHPFOX') or exit('NO DICE!'); ?>
-<?php /* Cached: July 25, 2015, 5:06 pm */ ?>
+<?php /* Cached: July 26, 2015, 7:05 pm */ ?>
 <?php if (! PHPFOX_IS_AJAX_PAGE): ?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" dir="<?php echo $this->_aVars['sLocaleDirection']; ?>" lang="<?php echo $this->_aVars['sLocaleCode']; ?>">

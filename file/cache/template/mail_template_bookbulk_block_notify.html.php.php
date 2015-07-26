@@ -1,5 +1,5 @@
 <?php defined('PHPFOX') or exit('NO DICE!'); ?>
-<?php /* Cached: July 25, 2015, 5:06 pm */ ?>
+<?php /* Cached: July 26, 2015, 7:05 pm */ ?>
 <li>
 	<span class="holder_notify_count" id="js_total_new_messages">0</span>
 	<a href="#" title="<?php echo Phpfox::getPhrase('mail.messages_notify'); ?>" class="message notify_drop_link" rel="mail.getLatest"><?php echo Phpfox::getPhrase('mail.messages_notify'); ?></a>

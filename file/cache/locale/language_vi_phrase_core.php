@@ -865,7 +865,7 @@ Note: This information usually displays the user name of the last person that mo
   'when' => 'Th&#7901;i gian',
   'with_selected' => 'V&#7899;i c&#225;c l&#7921;a ch&#7885;n',
   'year' => 'N&#259;m',
-  'yes' => 'Yes',
+  'yes' => '&#272;&#7891;ng &#253;',
   'yesterday' => 'H&#244;m qua',
   'ymd' => 'YMD',
   'your_numerical_vendor_id' => 'Your numerical vendor ID.',

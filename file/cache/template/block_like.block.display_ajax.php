@@ -1,5 +1,5 @@
 <?php defined('PHPFOX') or exit('NO DICE!'); ?>
-<?php /* Cached: July 25, 2015, 5:06 pm */ ?>
+<?php /* Cached: July 26, 2015, 7:05 pm */ ?>
 
 <?php if (Phpfox ::getParam('like.show_user_photos')): ?>
 	<div class="activity_like_holder comment_mini" style="position:relative;">		

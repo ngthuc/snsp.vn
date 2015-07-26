@@ -12,18 +12,6 @@
     'module_is_active' => '1',
     'mobile_icon' => NULL,
   ),
-  47 => 
-  array (
-    'menu_id' => '47',
-    'parent_id' => '0',
-    'm_connection' => 'main',
-    'var_name' => 'menu_core_friends',
-    'disallow_access' => NULL,
-    'module' => 'friend',
-    'url' => 'friend',
-    'module_is_active' => '1',
-    'mobile_icon' => NULL,
-  ),
   22 => 
   array (
     'menu_id' => '22',
@@ -33,6 +21,18 @@
     'disallow_access' => NULL,
     'module' => 'user',
     'url' => 'user.browse',
+    'module_is_active' => '1',
+    'mobile_icon' => NULL,
+  ),
+  47 => 
+  array (
+    'menu_id' => '47',
+    'parent_id' => '0',
+    'm_connection' => 'main',
+    'var_name' => 'menu_core_friends',
+    'disallow_access' => NULL,
+    'module' => 'friend',
+    'url' => 'friend',
     'module_is_active' => '1',
     'mobile_icon' => NULL,
   ),

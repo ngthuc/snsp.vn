@@ -51,7 +51,7 @@
       'is_invisible' => '0',
       'user_group_id' => '1',
       'language_id' => 'vi',
-      'post_convert_time' => '53 ph&#250;t tr&#432;&#7899;c',
+      'post_convert_time' => 'H&#244;m qua, 11:13 pm',
     ),
   ),
 ); ?>

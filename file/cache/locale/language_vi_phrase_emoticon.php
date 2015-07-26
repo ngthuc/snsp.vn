@@ -57,7 +57,7 @@
   'view_emoticon_package' => 'View Emoticon Package',
   'view_package' => 'View Package',
   'xml_files_only_and_must' => 'XML files only and must have a similar name structure: productname-emoticon-packagename.xml',
-  'yes' => 'Yes',
+  'yes' => '&#272;&#7891;ng &#253;',
   'you_can_optionally_mass_import_emoticons_from_a_zip_package' => 'You can optionally mass import emoticons from a ZIP package. All emoticons must be located within the root directory of the ZIP package in order for a successful import.',
   'zip_package_only_and_must_have_a_similar_name_structure' => 'ZIP package only and must have a similar name structure: phpfox-emoticon-<i>packagename</i>.zip',
 ); ?>

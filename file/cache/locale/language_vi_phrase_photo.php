@@ -594,9 +594,9 @@ If you would like to define it in seconds here are some examples:
   'who_can_view_browse_photos' => 'Who can view/browse photos?',
   'with_a_total_of_total_vote_votes' => 'v&#7899;i t&#7893;ng s&#7889; {total_vote} phi&#7871;u b&#7847;u.',
   'would_you_like_to_view_this_image' => 'Would you like to view this image?',
-  'yes' => 'Yes',
-  'yes_strict' => 'Yes [strict]',
-  'yes_warning' => 'Yes [warning]',
+  'yes' => '&#272;&#7891;ng &#253;',
+  'yes_strict' => '&#272;&#7891;ng &#253; [strict]',
+  'yes_warning' => '&#272;&#7891;ng &#253; [warning]',
   'your_photo_has_been_approved_message' => 'Your photo "<a href=&#039;{sLink}&#039;>{title}</a>" has been approved.
 To view this photo follow the link below:
 <a href="{sLink}">{sLink}</a>',

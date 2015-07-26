@@ -136,7 +136,7 @@
   'view_active_users' => 'View Active Users',
   'view_more_orders' => 'View More Orders',
   'view_your_subscription' => 'View Your Subscription',
-  'yes' => 'Yes',
+  'yes' => '&#272;&#7891;ng &#253;',
   'your_membership_group_does_not_have_rights' => 'Your membership group does not have the rights to perform this specific action.',
   'your_membership_has_successfully_been_upgraded' => 'Your membership has successfully been upgraded.',
   'your_membership_on_site_title_has_successfully_been_updated' => 'Your membership on {site_title} has successfully been updated.

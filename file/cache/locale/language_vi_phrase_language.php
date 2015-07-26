@@ -138,5 +138,5 @@ Advised size is max 16 pixels (Width & Height).',
   'varname' => 'Varname',
   'view_more_search_options' => 'Nhi&#7873;u t&#249;y ch&#7885;n t&#236;m ki&#7871;m h&#417;n',
   'website' => 'Website',
-  'yes' => 'Yes',
+  'yes' => '&#272;&#7891;ng &#253;',
 ); ?>

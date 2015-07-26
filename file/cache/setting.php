@@ -3978,4 +3978,312 @@ Site Name',
     'value_actual' => 'PhpFox Backup',
     'module_name' => 'backuprestore',
   ),
+  552 => 
+  array (
+    'type_id' => 'integer',
+    'var_name' => 'bootstraptheme_mainmenu_count',
+    'value_actual' => 8,
+    'module_name' => 'bootstraptheme',
+  ),
+  553 => 
+  array (
+    'type_id' => 'string',
+    'var_name' => 'bootstraptheme_facebooklikebox',
+    'value_actual' => 'https://www.facebook.com/FacebookDevelopers',
+    'module_name' => 'bootstraptheme',
+  ),
+  554 => 
+  array (
+    'type_id' => 'string',
+    'var_name' => 'bootstraptheme_flickr_url',
+    'value_actual' => '1',
+    'module_name' => 'bootstraptheme',
+  ),
+  555 => 
+  array (
+    'type_id' => 'string',
+    'var_name' => 'bootstraptheme_twitter_url',
+    'value_actual' => '2',
+    'module_name' => 'bootstraptheme',
+  ),
+  556 => 
+  array (
+    'type_id' => 'string',
+    'var_name' => 'bootstraptheme_facebook_url',
+    'value_actual' => '3',
+    'module_name' => 'bootstraptheme',
+  ),
+  557 => 
+  array (
+    'type_id' => 'string',
+    'var_name' => 'bootstraptheme_dribbble_url',
+    'value_actual' => '5',
+    'module_name' => 'bootstraptheme',
+  ),
+  558 => 
+  array (
+    'type_id' => 'string',
+    'var_name' => 'bootstraptheme_pinterest_url',
+    'value_actual' => '6',
+    'module_name' => 'bootstraptheme',
+  ),
+  559 => 
+  array (
+    'type_id' => 'string',
+    'var_name' => 'bootstraptheme_youtube_url',
+    'value_actual' => '4',
+    'module_name' => 'bootstraptheme',
+  ),
+  560 => 
+  array (
+    'type_id' => 'string',
+    'var_name' => 'bootstraptheme_dir_image',
+    'value_actual' => 'file/pic/bootstraptheme/',
+    'module_name' => 'bootstraptheme',
+  ),
+  561 => 
+  array (
+    'type_id' => 'string',
+    'var_name' => 'background_color',
+    'value_actual' => '43C6FF',
+    'module_name' => 'bettermobile',
+  ),
+  562 => 
+  array (
+    'type_id' => 'boolean',
+    'var_name' => 'italiano',
+    'value_actual' => false,
+    'module_name' => 'bettermobile',
+  ),
+  563 => 
+  array (
+    'type_id' => 'boolean',
+    'var_name' => 'set_background_is_image',
+    'value_actual' => true,
+    'module_name' => 'bettermobile',
+  ),
+  564 => 
+  array (
+    'type_id' => 'boolean',
+    'var_name' => 'is_background_random',
+    'value_actual' => false,
+    'module_name' => 'bettermobile',
+  ),
+  565 => 
+  array (
+    'type_id' => 'string',
+    'var_name' => 'site_name_color',
+    'value_actual' => '000000',
+    'module_name' => 'bettermobile',
+  ),
+  566 => 
+  array (
+    'type_id' => 'array',
+    'var_name' => 'mobile_ad_id',
+    'value_actual' => '',
+    'module_name' => 'bettermobile',
+  ),
+  567 => 
+  array (
+    'type_id' => 'boolean',
+    'var_name' => 'enable_share_other',
+    'value_actual' => true,
+    'module_name' => 'bettermobile',
+  ),
+  568 => 
+  array (
+    'type_id' => 'boolean',
+    'var_name' => 'show_main_menu',
+    'value_actual' => true,
+    'module_name' => 'bettermobile',
+  ),
+  569 => 
+  array (
+    'type_id' => 'boolean',
+    'var_name' => 'change_sub_domain',
+    'value_actual' => false,
+    'module_name' => 'bettermobile',
+  ),
+  570 => 
+  array (
+    'type_id' => 'string',
+    'var_name' => 'android_app_id',
+    'value_actual' => '',
+    'module_name' => 'bettermobile',
+  ),
+  571 => 
+  array (
+    'type_id' => 'string',
+    'var_name' => 'itunes_id',
+    'value_actual' => '',
+    'module_name' => 'bettermobile',
+  ),
+  572 => 
+  array (
+    'type_id' => 'string',
+    'var_name' => 'app_name',
+    'value_actual' => '',
+    'module_name' => 'bettermobile',
+  ),
+  573 => 
+  array (
+    'type_id' => 'boolean',
+    'var_name' => 'image_radius',
+    'value_actual' => true,
+    'module_name' => 'bettermobile',
+  ),
+  574 => 
+  array (
+    'type_id' => 'boolean',
+    'var_name' => 'must_login',
+    'value_actual' => true,
+    'module_name' => 'bettermobile',
+  ),
+  575 => 
+  array (
+    'type_id' => 'string',
+    'var_name' => 'link_itunes',
+    'value_actual' => '',
+    'module_name' => 'bettermobile',
+  ),
+  576 => 
+  array (
+    'type_id' => 'drop',
+    'var_name' => 'block_video_type',
+    'value_actual' => 'Random Videos',
+    'module_name' => 'themesupporter',
+  ),
+  577 => 
+  array (
+    'type_id' => 'integer',
+    'var_name' => 'block_video_number',
+    'value_actual' => 5,
+    'module_name' => 'themesupporter',
+  ),
+  578 => 
+  array (
+    'type_id' => 'integer',
+    'var_name' => 'block_event_number',
+    'value_actual' => 5,
+    'module_name' => 'themesupporter',
+  ),
+  579 => 
+  array (
+    'type_id' => 'drop',
+    'var_name' => 'block_blog_type',
+    'value_actual' => 'Most Viewed blogs',
+    'module_name' => 'themesupporter',
+  ),
+  580 => 
+  array (
+    'type_id' => 'integer',
+    'var_name' => 'block_blog_number',
+    'value_actual' => 2,
+    'module_name' => 'themesupporter',
+  ),
+  581 => 
+  array (
+    'type_id' => 'integer',
+    'var_name' => 'block_blog_detail_length',
+    'value_actual' => 50,
+    'module_name' => 'themesupporter',
+  ),
+  582 => 
+  array (
+    'type_id' => 'integer',
+    'var_name' => 'block_feed_number',
+    'value_actual' => 22,
+    'module_name' => 'themesupporter',
+  ),
+  583 => 
+  array (
+    'type_id' => 'integer',
+    'var_name' => 'block_pages_number',
+    'value_actual' => 5,
+    'module_name' => 'themesupporter',
+  ),
+  584 => 
+  array (
+    'type_id' => 'drop',
+    'var_name' => 'block_pages_type',
+    'value_actual' => 'recent',
+    'module_name' => 'themesupporter',
+  ),
+  585 => 
+  array (
+    'type_id' => 'boolean',
+    'var_name' => 'block_pages_view_all',
+    'value_actual' => true,
+    'module_name' => 'themesupporter',
+  ),
+  586 => 
+  array (
+    'type_id' => 'drop',
+    'var_name' => 'block_event_type',
+    'value_actual' => 'All',
+    'module_name' => 'themesupporter',
+  ),
+  587 => 
+  array (
+    'type_id' => 'boolean',
+    'var_name' => 'block_member_view_more',
+    'value_actual' => true,
+    'module_name' => 'themesupporter',
+  ),
+  588 => 
+  array (
+    'type_id' => 'integer',
+    'var_name' => 'block_member_number',
+    'value_actual' => 5,
+    'module_name' => 'themesupporter',
+  ),
+  589 => 
+  array (
+    'type_id' => 'boolean',
+    'var_name' => 'block_member_show_name',
+    'value_actual' => true,
+    'module_name' => 'themesupporter',
+  ),
+  590 => 
+  array (
+    'type_id' => 'drop',
+    'var_name' => 'block_member_type',
+    'value_actual' => 'Top',
+    'module_name' => 'themesupporter',
+  ),
+  591 => 
+  array (
+    'type_id' => 'integer',
+    'var_name' => 'number_images_to_display',
+    'value_actual' => 8,
+    'module_name' => 'themesupporter',
+  ),
+  592 => 
+  array (
+    'type_id' => 'drop',
+    'var_name' => 'type_of_photo',
+    'value_actual' => 'All',
+    'module_name' => 'themesupporter',
+  ),
+  593 => 
+  array (
+    'type_id' => 'string',
+    'var_name' => 'default_mobile_style',
+    'value_actual' => '11',
+    'module_name' => 'themesupporter',
+  ),
+  594 => 
+  array (
+    'type_id' => 'drop',
+    'var_name' => 'marketplace_type',
+    'value_actual' => 'Most Liked',
+    'module_name' => 'themesupporter',
+  ),
+  595 => 
+  array (
+    'type_id' => 'integer',
+    'var_name' => 'marketplace_number',
+    'value_actual' => 4,
+    'module_name' => 'themesupporter',
+  ),
 ); ?>

@@ -209,7 +209,7 @@ To see the comment thread, follow the link below:
   'user_setting_custom_table_name' => 'Custom field database table name?',
   'user_setting_has_special_custom_fields' => 'Can have special custom fields?',
   'values' => 'Values',
-  'yes' => 'Yes',
+  'yes' => '&#272;&#7891;ng &#253;',
   'you_can_add_a_language_phrase_if_you_enter_it_like_this' => 'You can add a language phrase if you enter it like this',
   'you_do_not_have_permission_to_edit_this_field' => 'You do not have permission to edit this field.',
   'you_have_selected_that_this_field_is_a_select_custom_field_which_requires_at_least_one_option' => 'You have selected that this field is a "select" custom field, which requires at least one option.',

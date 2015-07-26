@@ -2,11 +2,11 @@
 <?php $aContent = array (
   'no_share' => true,
   'feed_status' => 'test',
-  'feed_link' => 'http://snsp.vn/index.php?do=/pages/1/wall/comment-id_2/',
+  'feed_link' => 'http://snsp.vn/index.php?do=/mobile/pages/1/wall/comment-id_2/',
   'total_comment' => '0',
-  'feed_total_like' => '0',
-  'feed_is_liked' => NULL,
-  'feed_icon' => 'http://snsp.vn/theme/frontend/bookbulk/style/bookbulk/image/misc/comment.png',
+  'feed_total_like' => '1',
+  'feed_is_liked' => '9',
+  'feed_icon' => 'http://snsp.vn/theme/frontend/bettermobile/style/bettermobile/image/misc/comment.png',
   'time_stamp' => '1437842418',
   'enable_like' => true,
   'comment_type_id' => 'pages',
@@ -23,8 +23,8 @@
     'content' => 'test',
     'time_stamp' => '1437842418',
     'total_comment' => '0',
-    'total_like' => '0',
-    'is_liked' => NULL,
+    'total_like' => '1',
+    'is_liked' => '9',
     'reg_method' => '0',
     'page_id' => '1',
     'app_image_path' => NULL,
@@ -41,7 +41,7 @@
     'parent_user_group_id' => '2',
     'parent_language_id' => NULL,
   ),
-  'parent_user_name' => 'http://snsp.vn/index.php?do=/pages/1/',
+  'parent_user_name' => 'http://snsp.vn/index.php?do=/mobile/pages/1/',
   'parent_user' => 
   array (
     'parent_user_id' => '2',
@@ -57,5 +57,9 @@
   ),
   'likes' => 
   array (
+  ),
+  'likes_history' => 
+  array (
+    1 => true,
   ),
 ); ?>

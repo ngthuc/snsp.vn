@@ -83,7 +83,7 @@ M&#7901;i b&#7841;n tham kh&#7843;o n&#7897;i dung n&#224;y:
   'user_setting_total_emails_per_round' => 'How many emails per round can be sent when sharing?
 
 <b>Notice:</b> The value "0" (without quotes) gives the user group an unlimited amount of emails per round.',
-  'yes' => 'Yes',
+  'yes' => '&#272;&#7891;ng &#253;',
   'you_are_unable_to_send_any_more_emails_we_have_a_limit_of_how_many_emails_can_be_sent_each_hour_br_current_limit_limit' => 'You are unable to send any more emails. We have a limit of how many emails can be sent each hour. <br />
 Current limit: {limit}',
   'you_can_pass_a_title_and_url_string_by_adding_the_following_replacements_br_url_url_of_the_item_br_title_title_of_the_item' => 'You can pass a title and URL string by adding the following replacements...

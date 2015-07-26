@@ -36,7 +36,7 @@
   'unlink_facebook_account' => 'Unlink Facebook Account',
   'unlink_facebook_connect' => 'Unlink Facebook Connect',
   'we_already_have_an_account_created_with_us' => 'We already have an account created with us with the same email you have on Facebook. Would you like to sync both accounts?',
-  'yes_sync_both_accounts' => 'Yes, sync both accounts.',
+  'yes_sync_both_accounts' => '&#272;&#7891;ng &#253;, &#273;&#7891;ng b&#7897; c&#7843; hai t&#224;i kho&#7843;n.',
   'your_account_is_synced_with_your_facebook_account' => 'Your account is synced with your Facebook account. Please login using Facebook Connect.',
   'you_have_chosen_to_not_sync_both_accounts' => 'You have chosen to not sync both accounts. To complete this process please remove this Facebook Connection here:',
   'you_have_successfully_unlinked_your_facebook_account_from_our_site' => 'You have successfully unlinked your Facebook account from our site.',

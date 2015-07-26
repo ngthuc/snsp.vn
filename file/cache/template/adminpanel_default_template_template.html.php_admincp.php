@@ -1,5 +1,5 @@
 <?php defined('PHPFOX') or exit('NO DICE!'); ?>
-<?php /* Cached: July 25, 2015, 5:04 pm */ ?>
+<?php /* Cached: July 26, 2015, 7:05 pm */ ?>
 <?php 
 /**
  * [NULLED BY DARKGOTH 2014]
@@ -181,7 +181,7 @@
 						<div id="breadcrumb_content_holder">
 <?php endif; ?>
 <?php if (!$this->bIsSample):  $this->getLayout('error');  endif; ?>
-<?php if (!$this->bIsSample): ?><div id="site_content"><?php if (isset($this->_aVars['bSearchFailed'])): ?><div class="message">Unable to find anything with your search criteria.</div><?php else:  $sController = "admincp.setting/edit";  if ( Phpfox::getLib("template")->shouldLoadDelayed("admincp.setting/edit") == true ): ?>
+<?php if (!$this->bIsSample): ?><div id="site_content"><?php if (isset($this->_aVars['bSearchFailed'])): ?><div class="message">Unable to find anything with your search criteria.</div><?php else:  $sController = "themesupporter.admincp/mobiletheme/index";  if ( Phpfox::getLib("template")->shouldLoadDelayed("themesupporter.admincp/mobiletheme/index") == true ): ?>
 <div id="delayed_block_image" style="text-align:center; padding-top:20px;"><img src="http://snsp.vn/theme/frontend/default/style/default/image/ajax/add.gif" alt="" /></div>
 <div id="delayed_block" style="display:none;"><?php echo Phpfox::getLib('phpfox.module')->getFullControllerName(); ?></div>
 <?php else:  Phpfox::getLib('phpfox.module')->getControllerTemplate();  endif;  endif; ?></div><?php endif; ?>

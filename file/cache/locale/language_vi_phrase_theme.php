@@ -207,7 +207,7 @@
   'website' => 'Website',
   'weight' => 'Weight',
   'width' => 'Chi&#7873;u r&#7897;ng',
-  'yes' => 'Yes',
+  'yes' => '&#272;&#7891;ng &#253;',
   'you_are_not_allowed_to_make_use_of_this_feature' => 'You are not allowed to make use of this feature.',
   'you_can_upload_a_jpg_gif_or_png_file' => 'B&#7841;n c&#243; th&#7875; t&#7843;i l&#234;n c&#225;c &#273;&#7883;nh d&#7841;ng file JPG, GIF ho&#7863;c PNG.',
 ); ?>

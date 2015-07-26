@@ -1,5 +1,5 @@
 <?php defined('PHPFOX') or exit('NO DICE!'); ?>
-<?php /* Cached: July 25, 2015, 5:06 pm */ ?>
+<?php /* Cached: July 26, 2015, 7:05 pm */ ?>
 <?php if (Phpfox ::getParam('im.enable_im_in_footer_bar') && Phpfox ::isUser()): ?>
 	<div id="im_footer_wrapper">
 		<ul id="im_footer_bar">

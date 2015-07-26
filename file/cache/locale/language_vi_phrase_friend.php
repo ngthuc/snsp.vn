@@ -282,7 +282,7 @@ Disabling it does not mean a performance optimization since the contents are alr
   'we_can_t_create_an_empty_list' => 'We can\'t create an empty list.',
   'would_you_like_to_accept_their_request_to_be_friends' => 'Would you like to accept their request to be friends?',
   'write_your_message_within_250_characters' => 'Vi&#7871;t tin nh&#7855;n trong 250 k&#253; t&#7921;.',
-  'yes' => 'Yes',
+  'yes' => '&#272;&#7891;ng &#253;',
   'your_message_has_been_sent' => 'Tin nh&#7855;n &#273;&#227; &#273;&#432;&#7907;c g&#7917;i.',
   'you_are_already_friends_with_full_name' => 'B&#7841;n &#273;&#227; k&#7871;t b&#7841;n v&#7899;i {full_name}.',
   'you_are_already_friends_with_this_user' => 'B&#7841;n tr&#7903; th&#224;nh b&#7841;n v&#7899;i ng&#432;&#7901;i n&#224;y.',

@@ -57,5 +57,5 @@ are valid examples. Also dont forget the http:// and the ending /</info>',
   'status' => 'Status',
   'unable_to_block_this_user' => 'Unable to block this user.',
   'unable_to_send_this_user_an_offline_message' => 'Unable to send this user an offline message.',
-  'yes' => 'Yes',
+  'yes' => '&#272;&#7891;ng &#253;',
 ); ?>

@@ -73,6 +73,19 @@
   ),
   3 => 
   array (
+    'module_id' => 'bettermobile',
+    'is_menu' => '1',
+    'menu' => 
+    array (
+      'bettermobile.admin_menu_manager_background_images' => 
+      array (
+        'url' => 'bettermobile/background',
+      ),
+    ),
+    'url_name' => 'bettermobile',
+  ),
+  4 => 
+  array (
     'module_id' => 'blog',
     'is_menu' => '1',
     'menu' => 
@@ -88,7 +101,24 @@
     ),
     'url_name' => 'blog',
   ),
-  4 => 
+  5 => 
+  array (
+    'module_id' => 'bootstraptheme',
+    'is_menu' => '1',
+    'menu' => 
+    array (
+      'bootstraptheme.admin_menu_slideshow_settings' => 
+      array (
+        'url' => 'bootstraptheme/btslideshow',
+      ),
+      'bootstraptheme.admin_menu_add_slide' => 
+      array (
+        'url' => 'bootstraptheme/btaddslide',
+      ),
+    ),
+    'url_name' => 'bootstraptheme',
+  ),
+  6 => 
   array (
     'module_id' => 'contact',
     'is_menu' => '1',
@@ -101,7 +131,7 @@
     ),
     'url_name' => 'contact',
   ),
-  5 => 
+  7 => 
   array (
     'module_id' => 'egift',
     'is_menu' => '1',
@@ -122,7 +152,7 @@
     ),
     'url_name' => 'egift',
   ),
-  6 => 
+  8 => 
   array (
     'module_id' => 'event',
     'is_menu' => '1',
@@ -139,7 +169,7 @@
     ),
     'url_name' => 'event',
   ),
-  7 => 
+  9 => 
   array (
     'module_id' => 'forum',
     'is_menu' => '1',
@@ -156,7 +186,7 @@
     ),
     'url_name' => 'forum',
   ),
-  8 => 
+  10 => 
   array (
     'module_id' => 'input',
     'is_menu' => '1',
@@ -173,7 +203,7 @@
     ),
     'url_name' => 'input',
   ),
-  9 => 
+  11 => 
   array (
     'module_id' => 'marketplace',
     'is_menu' => '1',
@@ -190,7 +220,7 @@
     ),
     'url_name' => 'marketplace',
   ),
-  10 => 
+  12 => 
   array (
     'module_id' => 'music',
     'is_menu' => '1',
@@ -207,7 +237,7 @@
     ),
     'url_name' => 'music',
   ),
-  11 => 
+  13 => 
   array (
     'module_id' => 'newsletter',
     'is_menu' => '1',
@@ -224,7 +254,7 @@
     ),
     'url_name' => 'newsletter',
   ),
-  12 => 
+  14 => 
   array (
     'module_id' => 'pages',
     'is_menu' => '1',
@@ -245,7 +275,7 @@
     ),
     'url_name' => 'pages',
   ),
-  13 => 
+  15 => 
   array (
     'module_id' => 'photo',
     'is_menu' => '1',
@@ -258,7 +288,7 @@
     ),
     'url_name' => 'photo',
   ),
-  14 => 
+  16 => 
   array (
     'module_id' => 'report',
     'is_menu' => '1',
@@ -279,7 +309,7 @@
     ),
     'url_name' => 'report',
   ),
-  15 => 
+  17 => 
   array (
     'module_id' => 'rss',
     'is_menu' => '1',
@@ -304,7 +334,7 @@
     ),
     'url_name' => 'rss',
   ),
-  16 => 
+  18 => 
   array (
     'module_id' => 'share',
     'is_menu' => '1',
@@ -321,7 +351,7 @@
     ),
     'url_name' => 'share',
   ),
-  17 => 
+  19 => 
   array (
     'module_id' => 'subscribe',
     'is_menu' => '1',
@@ -346,7 +376,24 @@
     ),
     'url_name' => 'subscribe',
   ),
-  18 => 
+  20 => 
+  array (
+    'module_id' => 'themesupporter',
+    'is_menu' => '1',
+    'menu' => 
+    array (
+      'themesupporter.admin_menu_introduction' => 
+      array (
+        'url' => 'themesupporter/introduction',
+      ),
+      'themesupporter.admin_menu_mobilte_theme' => 
+      array (
+        'url' => 'themesupporter/mobiletheme',
+      ),
+    ),
+    'url_name' => 'themesupporter',
+  ),
+  21 => 
   array (
     'module_id' => 'user',
     'is_menu' => '1',
@@ -359,7 +406,7 @@
     ),
     'url_name' => 'user',
   ),
-  19 => 
+  22 => 
   array (
     'module_id' => 'video',
     'is_menu' => '1',

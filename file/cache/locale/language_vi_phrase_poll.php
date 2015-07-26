@@ -241,7 +241,7 @@ It can also be complemented with the setting "poll.view_poll_results_after_vote"
   'votes_are_hidden_for_this_poll' => 'Votes are hidden for this poll.',
   'votes_total_votes' => 'Votes ({total_votes})',
   'we_dont_allow_default_answers_answer' => 'We dont allow default answers ({answer}).',
-  'yes' => 'Yes',
+  'yes' => '&#272;&#7891;ng &#253;',
   'your_design_has_been_updated' => 'Your design has been updated.',
   'your_poll_a_href_link_title_a_has_been_approved_to_view_this_poll_follow_the_link_below_a_href_link_link_a' => 'Your poll "<a href="{link}">{title}</a>" has been approved.
 To view this poll follow the link below:
