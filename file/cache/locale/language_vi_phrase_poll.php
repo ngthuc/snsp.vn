@@ -96,7 +96,7 @@ To view this poll follow the link below:
   'module_poll' => 'Polls',
   'most_discussed' => 'B&#236;nh lu&#7853;n nhi&#7873;u',
   'most_liked' => 'Nhi&#7873;u ng&#432;&#7901;i th&#237;ch',
-  'most_viewed' => 'Most Viewed',
+  'most_viewed' => '&#272;&#432;&#7907;c Xem Nhi&#7873;u Nh&#7845;t',
   'my_polls' => 'B&#236;nh ch&#7885;n c&#7911;a t&#244;i',
   'no' => 'No',
   'no_answers_to_show' => 'No answers to show.',

@@ -21,7 +21,7 @@ To see the comment thread, follow the link below:
   'full_name_liked_your_link_title_message' => '{full_name} liked your link "<a href="{link}">{title}</a>"
 To view this link follow the link below:
 <a href="{link}">{link}</a>',
-  'full_name_posted_a_link_on_your_wall' => '{full_name} posted a link on your wall',
+  'full_name_posted_a_link_on_your_wall' => '{full_name} &#273;&#227; share m&#7897;t li&#234;n k&#7871;t l&#234;n t&#432;&#7901;ng nh&#224; b&#7841;n',
   'full_name_posted_a_link_on_your_wall_message' => '{full_name} posted a link on your <a href="{link}">wall</a>.
 To see the comment thread, follow the link below:
 <a href="{link}">{link}</a>',

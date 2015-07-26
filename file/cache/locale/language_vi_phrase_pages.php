@@ -69,8 +69,8 @@ Xem trang n&#224;y theo li&#234;n k&#7871;t d&#432;&#7899;i &#273;&#226;y:
 <a href="{link}">{link}</a>',
   'full_name_liked_your_page_title' => '{full_name} th&#237;ch trang "{title}" c&#7911;a b&#7841;n',
   'full_name_sent_you_a_page_invitation' => '{full_name} sent you a page invitation.',
-  'full_name_s_pages' => '{full_name}&#039;s Pages',
-  'full_name_tagged_you_on_a_page' => '{full_name} tagged you on a page.',
+  'full_name_s_pages' => 'C&#225;c trang c&#7911;a {full_name}',
+  'full_name_tagged_you_on_a_page' => '{full_name} &#273;&#227; &#273;&#225;nh d&#7845;u b&#7841;n tr&#234;n m&#7897;t trang',
   'full_name_wrote_a_comment_link' => '{full_name} wrote a comment on your page "<a href="{link}">{title}</a>".
 To see the comment thread, follow the link below:
 <a href="{link}">{link}</a>',
@@ -123,7 +123,7 @@ To see the comment thread, follow the link below:
   'note_that_pages_displayed_here_are_pages_created_by_the_page' => 'Note that Pages displayed here are pages created by the Page ({global_full_name}) and not by the parent user ({profile_full_name}).',
   'no_members' => 'No members',
   'no_members_yet' => 'No members yet.',
-  'no_pages_found' => 'No pages found.',
+  'no_pages_found' => 'Kh&#244;ng t&#236;m th&#7845;y b&#7845;t k&#7923; trang n&#224;o.',
   'page' => 'Page',
   'pages' => 'Các Trang',
   'pages_privacy_information' => 'Note that the privacy set here only controls who can view the actual page and does not have any connection to any of the sub-sections or posts that reach the main activity feed. To control the privacy of each sub-section and its items you can do this below.',

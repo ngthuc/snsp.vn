@@ -1,7 +1,7 @@
 <?php defined('PHPFOX') or exit('NO DICE!'); ?>
 <?php $aContent = array (
   'connecting_to_facebook_please_hold' => 'Connecting to Facebook. Please hold...',
-  'email' => 'Email',
+  'email' => 'Th&#432; &#272;i&#7879;n T&#7917;',
   'enter_a_password' => 'Enter a password.',
   'facebook_connect' => 'Facebook Connect',
   'facebook_connect_account_issues' => 'Facebook Connect Account Issues',

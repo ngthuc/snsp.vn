@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a1dc866-0a44-4b76-9aa2-bf20ca06d60c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/frontend_bookbulk_template_template.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/frontend_bookbulk_template_template.html.php.php" />
+    <list default="true" id="7a1dc866-0a44-4b76-9aa2-bf20ca06d60c" name="Default" comment="Sửa lỗi tiếng việt chưa được dịch.">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/cron.php" afterPath="$PROJECT_DIR$/file/cache/cron.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_facebook.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_facebook.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_feed.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_feed.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_input.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_input.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_link.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_link.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_mail.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_mail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_marketplace.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_marketplace.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_music.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_music.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_pages.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_pages.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_photo.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_photo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_poll.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_poll.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_quiz.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_quiz.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_theme.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_theme.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_user.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_vi_phrase_user.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phpfoxreal.sql" afterPath="$PROJECT_DIR$/phpfoxreal.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/frontend/bookbulk/template/template.html.php" afterPath="$PROJECT_DIR$/theme/frontend/bookbulk/template/template.html.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="snsp.vn.iws" />
@@ -296,6 +308,70 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snsp.vn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snsp.vn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bookbulk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bookbulk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snsp.vn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snsp.vn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bookbulk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bookbulk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -351,7 +427,13 @@
       <option name="project" value="LOCAL" />
       <updated>1437938767846</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="install xong cometchat (cấu hình cơ bản)&#10;&#10;googlesky:0975669775">
+      <created>1437939658395</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1437939658395</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -360,7 +442,7 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21888727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -393,7 +475,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
     <MESSAGE value="Install better mobile và fix một số tiếng việt. Chuẩn bị cài cometchat" />
-    <option name="LAST_COMMIT_MESSAGE" value="Install better mobile và fix một số tiếng việt. Chuẩn bị cài cometchat" />
+    <MESSAGE value="install xong cometchat (cấu hình cơ bản)&#10;&#10;googlesky:0975669775" />
+    <MESSAGE value="Sửa lỗi tiếng việt chưa được dịch." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sửa lỗi tiếng việt chưa được dịch." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -744,18 +828,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/theme/frontend/bookbulk/style/bookbulk/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53212523">
-          <caret line="4161" column="22" selection-start-line="4161" selection-start-column="22" selection-end-line="4161" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/theme/frontend/bookbulk/template/template.html.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23407917">
           <caret line="8" column="93" selection-start-line="8" selection-start-column="93" selection-end-line="8" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/frontend/bookbulk/style/bookbulk/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36408567">
+          <caret line="1244" column="31" selection-start-line="1244" selection-start-column="0" selection-end-line="1244" selection-end-column="31" />
           <folding />
         </state>
       </provider>

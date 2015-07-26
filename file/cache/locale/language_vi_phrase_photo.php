@@ -151,7 +151,7 @@ To see the comment thread, follow the link below:
   'full_name_s_photo_album_from_time_stamp' => '{full_name}&#039;s Photo Album from {time_stamp}',
   'full_name_s_photo_from_time_stamp' => '{full_name}&#039;s Photo from {time_stamp}',
   'full_name_tagged_you_in_a_photo' => '{full_name} g&#7855;n t&#234;n b&#7841;n v&#224;o m&#7897;t h&#236;nh &#7843;nh.',
-  'full_name_tagged_you_on_gender_photo' => '{full_name} tagged you on {gender} photo "<a href="{link}">{title}</a>".',
+  'full_name_tagged_you_on_gender_photo' => '{full_name} &#273;&#227; &#273;&#225;nh d&#7845;u b&#7841;n trong {gender} h&#236;nh &#7843;nh "<a href="{link}">{title}</a>".',
   'full_name_tagged_you_on_user_photo' => '{full_name} tagged you on {other_full_name}&#039;s photo "<a href="{link}">{title}</a>
 To view this photo follow the link below:
 <a href="{link}">{link}</a>',
@@ -429,7 +429,7 @@ This setting changes a few aspects related to the photo section:<br/>
   'title' => '&#272;&#7863;t t&#234;n th&#7875; hi&#7879;n &#273;&#432;&#7907;c n&#7897;i dung &#7843;nh.</br>Kh&#244;ng n&#234;n &#273;&#7875; t&#234;n &#7843;nh l&#224; s&#7889; nh&#432; m&#7863;c &#273;&#7883;nh',
   'title_by_full_name' => '{title} b&#7903;i {full_name}',
   'top_battle' => 'Top Battle',
-  'top_rated' => 'Top Rated',
+  'top_rated' => '&#272;&#225;nh gi&#225; t&#7889;t nh&#7845;t',
   'total_battle_win_s' => '{total_battle} win(s)',
   'total_rating_out_of_5' => '{total_rating} tr&#234;n 10',
   'total_score_out_of_10' => '{total_score} tr&#234;n 10',

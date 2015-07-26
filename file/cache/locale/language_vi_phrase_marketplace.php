@@ -167,7 +167,7 @@ To check out this listing, follow the link below:
   'more_from_seller' => 'M&#7863;t h&#224;ng kh&#225;c c&#7911;a h&#7885;',
   'most_discussed' => 'B&#236;nh lu&#7853;n nhi&#7873;u',
   'most_liked' => 'Nhi&#7873;u ng&#432;&#7901;i th&#237;ch',
-  'most_viewed' => 'Most Viewed',
+  'most_viewed' => '&#272;&#432;&#7907;c Xem Nhi&#7873;u Nh&#7845;t',
   'my_listings' => 'H&#224;ng c&#7911;a t&#244;i',
   'name' => 'Name',
   'new_guest_list' => 'New Guest List',

@@ -78,7 +78,7 @@ Xem tr&#7855;c nghi&#7879;m theo li&#234;n k&#7871;t:
   'module_quiz' => 'Trắc Nghiệm',
   'most_discussed' => 'B&#236;nh lu&#7853;n nhi&#7873;u',
   'most_liked' => 'Nhi&#7873;u ng&#432;&#7901;i th&#237;ch',
-  'most_viewed' => 'Most Viewed',
+  'most_viewed' => '&#272;&#432;&#7907;c Xem Nhi&#7873;u Nh&#7845;t',
   'my_quizzes' => 'My Quizzes',
   'not_answered' => 'Not answered',
   'not_a_valid_post' => 'Not a valid POST.',

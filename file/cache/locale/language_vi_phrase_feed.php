@@ -51,7 +51,7 @@ To see the comment thread, follow the link below:
 To view this comment, follow the link below:
 <a href="{link}">{link}</a>',
   'full_name_posted_a_href_link_a_video_a_on_a_href_profile_parent_full_name_a_s_a_href_profile_link_wall_a' => '{full_name} posted <a href="{link}">a video</a> on <a href="{profile}">{parent_full_name}</a>&#039;s <a href="{profile_link}">wall</a>.',
-  'full_name_wrote_a_comment_on_your_wall' => '{full_name} wrote a comment on your wall.',
+  'full_name_wrote_a_comment_on_your_wall' => '{full_name} &#273;&#227; vi&#7871;t m&#7897;t l&#7901;i b&#236;nh l&#234;n t&#432;&#7901;ng nh&#224; b&#7841;n',
   'full_name_wrote_a_comment_on_your_wall_message' => '{full_name} wrote a comment on your <a href="{link}">wall</a>.
 To see the comment thread, follow the link below:
 <a href="{link}">{link}</a>',

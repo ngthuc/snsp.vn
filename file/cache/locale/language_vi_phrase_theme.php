@@ -73,7 +73,7 @@
   'export_styles' => 'Export Styles',
   'export_theme' => 'Export Theme',
   'family' => 'Family',
-  'favorites' => 'Favorites',
+  'favorites' => '&#431;a Th&#237;ch',
   'file_name' => 'File Name',
   'file_name_is_not_valid' => 'File name is not valid.',
   'folder' => 'Th&#432; m&#7909;c',
